@@ -62,6 +62,7 @@ _Repetitions are allowed_ :P
 * [licensed](https://github.com/plibither8/licensed) - ⚖️ ✔️ licensed is an interactive command line tool to help you choose and add licenses to your projects
 * [github-feed-notifier](https://github.com/plibither8/github-feed-notifier) - :octocat::bell: Desktop notifications for your GitHub dashboard — Native, cross-platform and configurable
 * [wakalogger](https://github.com/plibither8/wakalogger) - 🕒 Log your daily WakaTime coding activity to a secret Gist
+* [recent-activity-updater](https://github.com/plibither8/recent-activity-updater) - ✨ Script to update my "recent-activity.json" daily
 
 ### Random Scripts
 
