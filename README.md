@@ -14,10 +14,10 @@ _Repetitions are allowed_ :P
 * [sanskriti-mun-2018](https://github.com/plibither8/sanskriti-mun-2018) - Sanskriti MUN 2018
 * [MatheTraffics-Niamat-Rai-2017](https://github.com/plibither8/MatheTraffics-Niamat-Rai-2017) - Presentation website for Sanskriti School's prize-winning project on investigatory mathematics: MatheTraffics, Niamat Rai Competition 2017
 
-## Webapps
+## Web Apps
 
 * [tiiime](https://github.com/plibither8/tiiime) - ⏳ [Byld Hackathon v16] Your personal, crowd-sourced timetable
-* [rosaline](https://github.com/raghav-kukreti/rosaline) - 🎶 AI-powered drum machine which generates unique drum tracks for your lead melodies
+* [rosaline](https://github.com/raghav-kukreti/rosaline) - 🎶 [InOut 6.0] AI-powered drum machine which generates unique drum tracks for your lead melodies
 * [quiz-finals-app](https://github.com/Project-Beta/quiz-finals-app) -  📊 Score-keeping app for ProjectBeta's Quiz finals
 * [single-elimination-brackets](https://github.com/Project-Beta/single-elimination-brackets) -  🏆 App to display live the teams being eliminated in a single-elimination tournament
 
@@ -53,7 +53,7 @@ _Repetitions are allowed_ :P
 ## Hackathons
 
 * [tiiime](https://github.com/plibither8/tiiime) - ⏳ [Byld Hackathon v16] Your personal, crowd-sourced timetable
-* [rosaline](https://github.com/raghav-kukreti/rosaline) - 🎶 AI-powered drum machine which generates unique drum tracks for your lead melodies
+* [rosaline](https://github.com/raghav-kukreti/rosaline) - 🎶 [InOut 6.0] AI-powered drum machine which generates unique drum tracks for your lead melodies
 
 ## Command Line
 
