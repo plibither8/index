@@ -1,14 +1,14 @@
 # 📂 index
 
 All my public repositories and projects I have worked on, indexed. <br>
-_Repetitions are allowed_ :P
+_Repetitions are allowed :P_
 
 ## Websites
 
 * [mihir.ch](https://github.com/plibither8/mihir.ch) - 🌐 My personal website's source code
 * [v1.mihir.ch](https://github.com/plibither8/v1.mihir.ch) - 🌐 First version of my personal website
 * [swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers
-* [projectbeta-2.0](https://github.com/Project-Beta/projectbeta-2.0) -  Official website of ProjectBeta, 2018 | Change the Status Quo
+* [projectbeta-2.0](https://github.com/Project-Beta/projectbeta-2.0) - Official website of ProjectBeta, 2018 | Change the Status Quo
 * [sanskriti-school](https://github.com/Project-Beta/sanskriti-school) - Official website of Sanskriti School, New Delhi, India
 * [made-with-love-in](https://github.com/plibither8/made-with-love-in) - 🛠️ ❤️ 🗺️ 🛡️ — Mircoservice for serving and listing "Made with love in <country-name>" badges
 * [sanskriti-mun-2018](https://github.com/plibither8/sanskriti-mun-2018) - Sanskriti MUN 2018
@@ -18,8 +18,8 @@ _Repetitions are allowed_ :P
 
 * [tiiime](https://github.com/plibither8/tiiime) - ⏳ [Byld Hackathon v16] Your personal, crowd-sourced timetable
 * [rosaline](https://github.com/raghav-kukreti/rosaline) - 🎶 [InOut 6.0] AI-powered drum machine which generates unique drum tracks for your lead melodies
-* [quiz-finals-app](https://github.com/Project-Beta/quiz-finals-app) -  📊 Score-keeping app for ProjectBeta's Quiz finals
-* [single-elimination-brackets](https://github.com/Project-Beta/single-elimination-brackets) -  🏆 App to display live the teams being eliminated in a single-elimination tournament
+* [quiz-finals-app](https://github.com/Project-Beta/quiz-finals-app) - 📊 Score-keeping app for ProjectBeta's Quiz finals
+* [single-elimination-brackets](https://github.com/Project-Beta/single-elimination-brackets) - 🏆 App to display live the teams being eliminated in a single-elimination tournament
 
 ## Extensions
 
@@ -29,7 +29,7 @@ _Repetitions are allowed_ :P
 * [refined-hacker-news](https://github.com/plibither8/refined-hacker-news) - ✨ Hacker News, but refined — Interface tweaks and features to make the HN experience better
 * [asciinema-player-for-github](https://github.com/plibither8/asciinema-player-for-github) - 🎬✨ Browser extension to automatically detect asciinema links in a project's README and embed the asciinema player in its place
 * [chrome-view-images-button](https://github.com/plibither8/chrome-view-images-button) - Chrome Extension to get back the "View Image" button in Google Image search results!
-* [browser-extension-starter](https://github.com/plibither8/browser-extension-starter) - 📦 Cross-browser extension starter template
+* [browser-extension-starter](https://github.com/plibither8/browser-extension-starter) - _Archived_ - 📦 Cross-browser extension starter template
 
 ### Visual Studio Code
 
@@ -48,7 +48,7 @@ _Repetitions are allowed_ :P
 
 * [2048.cpp](https://github.com/plibither8/2048.cpp) - 🎮 Fully featured terminal version of the game "2048" written in C++
 * [capture_the_flag](https://github.com/plibither8/capture_the_flag) - 🚩 [DES130 Minor Project] Basic single/multi-player maze game built using Processing and Arduino-controlled inputs
-* [Ultimate-Tic-Tac-Toe](https://github.com/plibither8/Ultimate-Tic-Tac-Toe) - A simple JS+HTML implementation of the 2-player game Ultimate Tic Tac Toe
+* [Ultimate-Tic-Tac-Toe](https://github.com/plibither8/Ultimate-Tic-Tac-Toe) - _Archived_ - A simple JS+HTML implementation of the 2-player game Ultimate Tic Tac Toe
 
 ## Hackathons
 
