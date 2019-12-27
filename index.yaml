@@ -1,0 +1,197 @@
+Websites:
+  - name: mihir.ch
+    link: https://github.com/plibither8/mihir.ch
+    description: 🌐 My personal website's source code
+    archived: no
+  - name: v1.mihir.ch
+    link: https://github.com/plibither8/v1.mihir.ch
+    description: 🌐 First version of my personal website
+    archived: no
+  - name: swag-for-dev
+    link: https://github.com/swapagarwal/swag-for-dev
+    description: 😎 swag opportunities for developers
+    archived: no
+  - name: projectbeta-2.0
+    link: https://github.com/Project-Beta/projectbeta-2.0
+    description: Official website of ProjectBeta, 2018 | Change the Status Quo
+    archived: no
+  - name: sanskriti-school
+    link: https://github.com/Project-Beta/sanskriti-school
+    description: Official website of Sanskriti School, New Delhi, India
+    archived: no
+  - name: made-with-love-in
+    link: https://github.com/plibither8/made-with-love-in
+    description: 🛠 ❤️ 🗺 🛡 — Mircoservice for serving and listing "Made with love in <country-name>" badges
+    archived: no
+  - name: sanskriti-mun-2018
+    link: https://github.com/plibither8/sanskriti-mun-2018
+    description: Sanskriti MUN 2018
+    archived: no
+  - name: MatheTraffics-Niamat-Rai-2017
+    link: https://github.com/plibither8/MatheTraffics-Niamat-Rai-2017
+    description: 'Presentation website for Sanskriti School''s prize-winning project on investigatory mathematics: MatheTraffics, Niamat Rai Competition 2017'
+    archived: no
+
+Web Apps:
+  - name: tiiime
+    link: https://github.com/plibither8/tiiime
+    description: ⏳ [Byld Hackathon v16] Your personal, crowd-sourced timetable
+    archived: no
+  - name: rosaline
+    link: https://github.com/raghav-kukreti/rosaline
+    description: 🎶 [InOut 6.0] AI-powered drum machine which generates unique drum tracks for your lead melodies
+    archived: no
+  - name: quiz-finals-app
+    link: https://github.com/Project-Beta/quiz-finals-app
+    description: 📊 Score-keeping app for ProjectBeta's Quiz finals
+    archived: no
+  - name: single-elimination-brackets
+    link: https://github.com/Project-Beta/single-elimination-brackets
+    description: 🏆 App to display live the teams being eliminated in a single-elimination tournament
+    archived: no
+
+Extensions:
+  Browser:
+    - name: markdown-new-tab
+      link: https://github.com/plibither8/markdown-new-tab
+      description: 🗒️ ⏰ ✅ Save notes in Markdown directly in the 'New Tab' page
+      archived: no
+    - name: refined-hacker-news
+      link: https://github.com/plibither8/refined-hacker-news
+      description: ✨ Hacker News, but refined — Interface tweaks and features to make the HN experience better
+      archived: no
+    - name: asciinema-player-for-github
+      link: https://github.com/plibither8/asciinema-player-for-github
+      description: 🎬✨ Browser extension to automatically detect asciinema links in a project's README and embed the asciinema player in its place
+      archived: no
+    - name: chrome-view-images-button
+      link: https://github.com/plibither8/chrome-view-images-button
+      description: Chrome Extension to get back the "View Image" button in Google Image search results!
+      archived: no
+    - name: browser-extension-starter
+      link: https://github.com/plibither8/browser-extension-starter
+      description: 📦 Cross-browser extension starter template
+      archived: yes
+
+  Visual Studio Code:
+    - name: vscode-remove-comments
+      link: https://github.com/plibither8/vscode-remove-comments
+      description: 🚫 VS Code extension to remove all comments from your code at once — 60+ languages supported
+      archived: no
+
+APIs and Microservices:
+  - name: made-with-love-in
+    link: https://github.com/plibither8/made-with-love-in
+    description: 🛠️ ❤️ 🗺️ 🛡️ — Mircoservice for serving and listing "Made with love in <country-name>" badges
+    archived: no
+  - name: wayback
+    link: https://github.com/plibither8/wayback
+    description: 🏛 Microservice that redirects to archived version of the URL if found, otherwise saves it to the Internet Archive
+    archived: no
+  - name: tg-bots
+    link: https://github.com/plibither8/tg-bots
+    description: 🤖 Tiny service to send messages with a uniform interface for all my Telegram bots
+    archived: no
+  - name: hn-faves-api
+    link: https://github.com/plibither8/hn-faves-api
+    description: 🌐 Tiny API to get user's favorited items on Hacker News
+    archived: no
+  - name: url-title-api
+    link: https://github.com/plibither8/url-title-api
+    description: 🔗 Tiny API to get the title of webpage from its URL
+    archived: no
+  - name: delhi-metro-api
+    link: https://github.com/plibither8/delhi-metro-api
+    description: 🚇 (unofficial) RESTful API for the Delhi Metro [Work in Progress]
+    archived: no
+
+Games:
+  - name: 2048.cpp
+    link: https://github.com/plibither8/2048.cpp
+    description: 🎮 Fully featured terminal version of the game "2048" written in C++
+    archived: no
+  - name: capture_the_flag
+    link: https://github.com/plibither8/capture_the_flag
+    description: 🚩 [DES130 Minor Project] Basic single/multi-player maze game built using Processing and Arduino-controlled inputs
+    archived: no
+  - name: Ultimate-Tic-Tac-Toe
+    link: https://github.com/plibither8/Ultimate-Tic-Tac-Toe
+    description: A simple JS+HTML implementation of the 2-player game Ultimate Tic Tac Toe
+    archived: yes
+
+Hackathons:
+  - name: tiiime
+    link: https://github.com/plibither8/tiiime
+    description: ⏳ [Byld Hackathon v16] Your personal, crowd-sourced timetable
+    archived: no
+  - name: rosaline
+    link: https://github.com/raghav-kukreti/rosaline
+    description: 🎶 [InOut 6.0] AI-powered drum machine which generates unique drum tracks for your lead melodies
+    archived: no
+
+Command Line:
+  Tools:
+    - name: licensed
+      link: https://github.com/plibither8/licensed
+      description: ⚖️ ✔️ licensed is an interactive command line tool to help you choose and add licenses to your projects
+      archived: no
+    - name: github-feed-notifier
+      link: https://github.com/plibither8/github-feed-notifier
+      description: 🔔 Desktop notifications for your GitHub dashboard — Native, cross-platform and configurable
+      archived: no
+    - name: wakalogger
+      link: https://github.com/plibither8/wakalogger
+      description: 🕒 Log your daily WakaTime coding activity to a secret Gist
+      archived: no
+    - name: recent-activity-updater
+      link: https://github.com/plibither8/recent-activity-updater
+      description: ✨ Script to update my "recent-activity.json" daily
+      archived: no
+
+  Random Scripts:
+    - name: periodic-table-words--javascript
+      link: https://github.com/plibither8/periodic-table-words--javascript
+      description: Program written in NodeJS to determine whether a given string can be formed by some combination of the symbols of elements of the periodic table.
+      archived: no
+    - name: periodic-table-words--python
+      link: https://github.com/plibither8/periodic-table-words--python
+      description: Program written in Python to determine whether a given string can be formed by some combination of the symbols of elements of the periodic table.
+      archived: no
+
+College Projects and Coursework:
+  - name: capture_the_flag
+    link: https://github.com/plibither8/capture_the_flag
+    description: 🚩 [DES130 Minor Project] Basic single/multi-player maze game built using Processing and Arduino-controlled inputs
+    archived: no
+  - name: percepio-2.0
+    link: https://github.com/plibither8/percepio-2.0
+    description: 👓 [DES130 Major Project] Taking notes made simple — in the air, on the go
+    archived: no
+  - name: qr-decomposition
+    link: https://github.com/plibither8/qr-decomposition
+    description: QR Decomposition by the Gram-Schmidt Process
+    archived: no
+  - name: iiitd_cse101
+    link: https://github.com/plibither8/iiitd_cse101
+    description: 'Semester 1: Introduction to Programming'
+    archived: no
+
+Node Libraries:
+  - name: big-number.js
+    link: https://github.com/plibither8/big-number.js
+    description: big-number.js is a calculator for arbitrarily large integers, for JavaScript.
+    archived: yes
+  - name: Factorial.js
+    link: https://github.com/plibither8/Factorial.js
+    description: Arbitrarily large integer factorial calculation using JS string manipulations
+    archived: yes
+  - name: getchar
+    link: https://github.com/plibither8/getchar
+    description: ⌨️ getchar is a module that gets a character from the stdin. Similar to `getch` and `getchar` in C and C++.
+    archived: yes
+
+Miscellaneous:
+  - name: project-euler-assembly
+    link: https://github.com/plibither8/project-euler-assembly
+    description: Solutions to Project Euler in x86_64 Assembly
+    archived: no
