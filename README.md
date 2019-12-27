@@ -66,6 +66,7 @@ _Repetitions are allowed :P_
 
 ### Random Scripts
 
+* [index](https://github.com/plibither8/index) - 📂 All my repositories and projects I have worked on, indexed. Also contains code to generate the README file
 * [periodic-table-words--javascript](https://github.com/plibither8/periodic-table-words--javascript) - Program written in NodeJS to determine whether a given string can be formed by some combination of the symbols of elements of the periodic table.
 * [periodic-table-words--python](https://github.com/plibither8/periodic-table-words--python) - Program written in Python to determine whether a given string can be formed by some combination of the symbols of elements of the periodic table.
 
@@ -85,4 +86,3 @@ _Repetitions are allowed :P_
 ## Miscellaneous
 
 * [project-euler-assembly](https://github.com/plibither8/project-euler-assembly) - Solutions to Project Euler in x86_64 Assembly
-
