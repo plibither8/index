@@ -1,6 +1,6 @@
 # 📂 index
 
-All my public repositories and projects I have worked on, indexed. <br>
+All my public repositories and projects I have worked on, indexed.<br>
 _Repetitions are allowed :P_
 
 ## Websites
@@ -10,7 +10,7 @@ _Repetitions are allowed :P_
 * [swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers
 * [projectbeta-2.0](https://github.com/Project-Beta/projectbeta-2.0) - Official website of ProjectBeta, 2018 | Change the Status Quo
 * [sanskriti-school](https://github.com/Project-Beta/sanskriti-school) - Official website of Sanskriti School, New Delhi, India
-* [made-with-love-in](https://github.com/plibither8/made-with-love-in) - 🛠️ ❤️ 🗺️ 🛡️ — Mircoservice for serving and listing "Made with love in <country-name>" badges
+* [made-with-love-in](https://github.com/plibither8/made-with-love-in) - 🛠 ❤️ 🗺 🛡 — Mircoservice for serving and listing "Made with love in <country-name>" badges
 * [sanskriti-mun-2018](https://github.com/plibither8/sanskriti-mun-2018) - Sanskriti MUN 2018
 * [MatheTraffics-Niamat-Rai-2017](https://github.com/plibither8/MatheTraffics-Niamat-Rai-2017) - Presentation website for Sanskriti School's prize-winning project on investigatory mathematics: MatheTraffics, Niamat Rai Competition 2017
 
@@ -60,7 +60,7 @@ _Repetitions are allowed :P_
 ### Tools
 
 * [licensed](https://github.com/plibither8/licensed) - ⚖️ ✔️ licensed is an interactive command line tool to help you choose and add licenses to your projects
-* [github-feed-notifier](https://github.com/plibither8/github-feed-notifier) - :octocat::bell: Desktop notifications for your GitHub dashboard — Native, cross-platform and configurable
+* [github-feed-notifier](https://github.com/plibither8/github-feed-notifier) - 🔔 Desktop notifications for your GitHub dashboard — Native, cross-platform and configurable
 * [wakalogger](https://github.com/plibither8/wakalogger) - 🕒 Log your daily WakaTime coding activity to a secret Gist
 * [recent-activity-updater](https://github.com/plibither8/recent-activity-updater) - ✨ Script to update my "recent-activity.json" daily
 
@@ -84,5 +84,5 @@ _Repetitions are allowed :P_
 
 ## Miscellaneous
 
-* [initialise_project_files](https://github.com/plibither8/initialise_project_files) - null
 * [project-euler-assembly](https://github.com/plibither8/project-euler-assembly) - Solutions to Project Euler in x86_64 Assembly
+
