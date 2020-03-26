@@ -11,6 +11,7 @@ _Repetitions are allowed :P_
 * [projectbeta-2.0](https://github.com/Project-Beta/projectbeta-2.0) - Official website of ProjectBeta, 2018 | Change the Status Quo
 * [sanskriti-school](https://github.com/Project-Beta/sanskriti-school) - Official website of Sanskriti School, New Delhi, India
 * [made-with-love-in](https://github.com/plibither8/made-with-love-in) - 🛠 ❤️ 🗺 🛡 — Mircoservice for serving and listing "Made with love in <country-name>" badges
+* [ieee.iiitd.edu.in](https://github.com/IEEE-IIIT-Delhi/ieee.iiitd.edu.in) - Official website for IIIT Delhi's IEEE Student Branch
 * [sanskriti-mun-2018](https://github.com/plibither8/sanskriti-mun-2018) - Sanskriti MUN 2018
 * [MatheTraffics-Niamat-Rai-2017](https://github.com/plibither8/MatheTraffics-Niamat-Rai-2017) - Presentation website for Sanskriti School's prize-winning project on investigatory mathematics: MatheTraffics, Niamat Rai Competition 2017
 

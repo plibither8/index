@@ -23,6 +23,10 @@ Websites:
     link: https://github.com/plibither8/made-with-love-in
     description: 🛠 ❤️ 🗺 🛡 — Mircoservice for serving and listing "Made with love in <country-name>" badges
     archived: false
+  - name: ieee.iiitd.edu.in
+    link: https://github.com/IEEE-IIIT-Delhi/ieee.iiitd.edu.in
+    description: Official website for IIIT Delhi's IEEE Student Branch
+    archived: false
   - name: sanskriti-mun-2018
     link: https://github.com/plibither8/sanskriti-mun-2018
     description: Sanskriti MUN 2018
