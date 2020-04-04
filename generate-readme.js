@@ -11,6 +11,8 @@ let fileContent = `# 📂 index
 All my public repositories and projects I have worked on, indexed.<br>
 _Repetitions are allowed :P_
 
+> ❗️: Project is unmaintained/abandoned/archived.
+
 `;
 
 
@@ -19,7 +21,7 @@ const main = async () => {
 	const data = yaml.safeLoad(yamlText)
 
 	const listString = item =>
-		`* [${item.name}](${item.link}) - ${item.archived ? '_Archived_ - ' : ''}${item.description}\n`;
+		`* [${item.name}](${item.link}) - ${item.description}${item.archived ? ' ❗️' : ''}\n`;
 
 	for (const [headingLvl1, itemsLvl1] of Object.entries(data)) {
 		fileContent += `## ${headingLvl1}\n\n`
