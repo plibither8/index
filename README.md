@@ -64,11 +64,12 @@ _Repetitions are allowed :P_
 * [github-feed-notifier](https://github.com/plibither8/github-feed-notifier) - 🔔 Desktop notifications for your GitHub dashboard — Native, cross-platform and configurable
 * [wakalogger](https://github.com/plibither8/wakalogger) - 🕒 Log your daily WakaTime coding activity to a secret Gist
 * [recent-activity-updater](https://github.com/plibither8/recent-activity-updater) - ✨ Script to update my "recent-activity.json" daily
+* [lastfm-top-artists](https://github.com/plibither8/lastfm-top-artists) - 📈 Collect user's top artists through time
 
 ### Random Scripts
 
 * [index](https://github.com/plibither8/index) - 📂 All my repositories and projects I have worked on, indexed. Also contains code to generate the README file
-* [periodic-table-words--javascript](https://github.com/plibither8/periodic-table-words--javascript) - Program written in NodeJS to determine whether a given string can be formed by some combination of the symbols of elements of the periodic table.
+* [periodic-table-words--javascript](https://github.com/plibither8/periodic-table-words--javascript) - Program written in Node.js to determine whether a given string can be formed by some combination of the symbols of elements of the periodic table.
 * [periodic-table-words--python](https://github.com/plibither8/periodic-table-words--python) - Program written in Python to determine whether a given string can be formed by some combination of the symbols of elements of the periodic table.
 
 ## College Projects and Coursework

@@ -151,6 +151,10 @@ Command Line:
       link: https://github.com/plibither8/recent-activity-updater
       description: ✨ Script to update my "recent-activity.json" daily
       archived: false
+    - name: lastfm-top-artists
+      link: https://github.com/plibither8/lastfm-top-artists
+      description: 📈 Collect user's top artists through time
+      archived: false
 
   Random Scripts:
     - name: index
@@ -159,7 +163,7 @@ Command Line:
       archived: false
     - name: periodic-table-words--javascript
       link: https://github.com/plibither8/periodic-table-words--javascript
-      description: Program written in NodeJS to determine whether a given string can be formed by some combination of the symbols of elements of the periodic table.
+      description: Program written in Node.js to determine whether a given string can be formed by some combination of the symbols of elements of the periodic table.
       archived: false
     - name: periodic-table-words--python
       link: https://github.com/plibither8/periodic-table-words--python
