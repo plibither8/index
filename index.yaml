@@ -114,12 +114,12 @@ Games:
     link: https://github.com/plibither8/2048.cpp
     description: 🎮 Fully featured terminal version of the game "2048" written in C++
     archived: false
-  - name: capture_the_flag
-    link: https://github.com/plibither8/capture_the_flag
+  - name: capture-the-flag
+    link: https://github.com/plibither8/capture-the-flag
     description: 🚩 [DES130 Minor Project] Basic single/multi-player maze game built using Processing and Arduino-controlled inputs
     archived: false
-  - name: Ultimate-Tic-Tac-Toe
-    link: https://github.com/plibither8/Ultimate-Tic-Tac-Toe
+  - name: ultimate-tic-tac-toe
+    link: https://github.com/plibither8/ultimate-tic-tac-toe
     description: A simple JS+HTML implementation of the 2-player game Ultimate Tic Tac Toe
     archived: true
 
@@ -171,8 +171,8 @@ Command Line:
       archived: true
 
 College Projects and Coursework:
-  - name: capture_the_flag
-    link: https://github.com/plibither8/capture_the_flag
+  - name: capture-the-flag
+    link: https://github.com/plibither8/capture-the-flag
     description: 🚩 [DES130 Minor Project] Basic single/multi-player maze game built using Processing and Arduino-controlled inputs
     archived: false
   - name: percepio-2.0

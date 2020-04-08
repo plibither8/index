@@ -50,8 +50,8 @@ _Repetitions are allowed :P_
 ## Games
 
 * [2048.cpp](https://github.com/plibither8/2048.cpp) - 🎮 Fully featured terminal version of the game "2048" written in C++
-* [capture_the_flag](https://github.com/plibither8/capture_the_flag) - 🚩 [DES130 Minor Project] Basic single/multi-player maze game built using Processing and Arduino-controlled inputs
-* [Ultimate-Tic-Tac-Toe](https://github.com/plibither8/Ultimate-Tic-Tac-Toe) - A simple JS+HTML implementation of the 2-player game Ultimate Tic Tac Toe ❗️
+* [capture-the-flag](https://github.com/plibither8/capture-the-flag) - 🚩 [DES130 Minor Project] Basic single/multi-player maze game built using Processing and Arduino-controlled inputs
+* [ultimate-tic-tac-toe](https://github.com/plibither8/ultimate-tic-tac-toe) - A simple JS+HTML implementation of the 2-player game Ultimate Tic Tac Toe ❗️
 
 ## Hackathons
 
@@ -76,7 +76,7 @@ _Repetitions are allowed :P_
 
 ## College Projects and Coursework
 
-* [capture_the_flag](https://github.com/plibither8/capture_the_flag) - 🚩 [DES130 Minor Project] Basic single/multi-player maze game built using Processing and Arduino-controlled inputs
+* [capture-the-flag](https://github.com/plibither8/capture-the-flag) - 🚩 [DES130 Minor Project] Basic single/multi-player maze game built using Processing and Arduino-controlled inputs
 * [percepio-2.0](https://github.com/plibither8/percepio-2.0) - 👓 [DES130 Major Project] Taking notes made simple — in the air, on the go
 * [qr-decomposition](https://github.com/plibither8/qr-decomposition) - QR Decomposition by the Gram-Schmidt Process ❗️
 * [iiitd_cse101](https://github.com/plibither8/iiitd_cse101) - Semester 1: Introduction to Programming ❗️
