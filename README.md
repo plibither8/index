@@ -47,6 +47,23 @@ _Repetitions are allowed :P_
 * [url-title-api](https://github.com/plibither8/url-title-api) - 🔗 Tiny API to get the title of webpage from its URL
 * [delhi-metro-api](https://github.com/plibither8/delhi-metro-api) - 🚇 (unofficial) RESTful API for the Delhi Metro [Work in Progress]
 
+## Command Line
+
+### Tools
+
+* [licensed](https://github.com/plibither8/licensed) - ⚖️ ✔️ licensed is an interactive command line tool to help you choose and add licenses to your projects
+* [github-feed-notifier](https://github.com/plibither8/github-feed-notifier) - 🔔 Desktop notifications for your GitHub dashboard — Native, cross-platform and configurable
+* [wakalogger](https://github.com/plibither8/wakalogger) - 🕒 Log your daily WakaTime coding activity to a secret Gist
+* [recent-activity-updater](https://github.com/plibither8/recent-activity-updater) - ✨ Script to update my "recent-activity.json" daily
+* [lastfm-top-artists](https://github.com/plibither8/lastfm-top-artists) - 📈 Collect user's top artists through time
+* [fitbit-heart-rate](https://github.com/plibither8/fitbit-heart-rate) - 💓 Collect lifetime heart rate data on Fitbit
+
+### Random Scripts
+
+* [index](https://github.com/plibither8/index) - 📂 All my repositories and projects I have worked on, indexed. Also contains code to generate the README file
+* [periodic-table-words--javascript](https://github.com/plibither8/periodic-table-words--javascript) - Program written in Node.js to determine whether a given string can be formed by some combination of the symbols of elements of the periodic table. ❗️
+* [periodic-table-words--python](https://github.com/plibither8/periodic-table-words--python) - Program written in Python to determine whether a given string can be formed by some combination of the symbols of elements of the periodic table. ❗️
+
 ## Games
 
 * [2048.cpp](https://github.com/plibither8/2048.cpp) - 🎮 Fully featured terminal version of the game "2048" written in C++
@@ -57,22 +74,6 @@ _Repetitions are allowed :P_
 
 * [tiiime](https://github.com/plibither8/tiiime) - ⏳ [Byld Hackathon v16] Your personal, crowd-sourced timetable
 * [rosaline](https://github.com/raghav-kukreti/rosaline) - 🎶 [InOut 6.0] AI-powered drum machine which generates unique drum tracks for your lead melodies
-
-## Command Line
-
-### Tools
-
-* [licensed](https://github.com/plibither8/licensed) - ⚖️ ✔️ licensed is an interactive command line tool to help you choose and add licenses to your projects
-* [github-feed-notifier](https://github.com/plibither8/github-feed-notifier) - 🔔 Desktop notifications for your GitHub dashboard — Native, cross-platform and configurable
-* [wakalogger](https://github.com/plibither8/wakalogger) - 🕒 Log your daily WakaTime coding activity to a secret Gist
-* [recent-activity-updater](https://github.com/plibither8/recent-activity-updater) - ✨ Script to update my "recent-activity.json" daily
-* [lastfm-top-artists](https://github.com/plibither8/lastfm-top-artists) - 📈 Collect user's top artists through time
-
-### Random Scripts
-
-* [index](https://github.com/plibither8/index) - 📂 All my repositories and projects I have worked on, indexed. Also contains code to generate the README file
-* [periodic-table-words--javascript](https://github.com/plibither8/periodic-table-words--javascript) - Program written in Node.js to determine whether a given string can be formed by some combination of the symbols of elements of the periodic table. ❗️
-* [periodic-table-words--python](https://github.com/plibither8/periodic-table-words--python) - Program written in Python to determine whether a given string can be formed by some combination of the symbols of elements of the periodic table. ❗️
 
 ## College Projects and Coursework
 

@@ -109,6 +109,47 @@ APIs and Microservices:
     description: 🚇 (unofficial) RESTful API for the Delhi Metro [Work in Progress]
     archived: false
 
+Command Line:
+  Tools:
+    - name: licensed
+      link: https://github.com/plibither8/licensed
+      description: ⚖️ ✔️ licensed is an interactive command line tool to help you choose and add licenses to your projects
+      archived: false
+    - name: github-feed-notifier
+      link: https://github.com/plibither8/github-feed-notifier
+      description: 🔔 Desktop notifications for your GitHub dashboard — Native, cross-platform and configurable
+      archived: false
+    - name: wakalogger
+      link: https://github.com/plibither8/wakalogger
+      description: 🕒 Log your daily WakaTime coding activity to a secret Gist
+      archived: false
+    - name: recent-activity-updater
+      link: https://github.com/plibither8/recent-activity-updater
+      description: ✨ Script to update my "recent-activity.json" daily
+      archived: false
+    - name: lastfm-top-artists
+      link: https://github.com/plibither8/lastfm-top-artists
+      description: 📈 Collect user's top artists through time
+      archived: false
+    - name: fitbit-heart-rate
+      link: https://github.com/plibither8/fitbit-heart-rate
+      description: 💓 Collect lifetime heart rate data on Fitbit
+      archived: false
+
+  Random Scripts:
+    - name: index
+      link: https://github.com/plibither8/index
+      description: 📂 All my repositories and projects I have worked on, indexed. Also contains code to generate the README file
+      archived: false
+    - name: periodic-table-words--javascript
+      link: https://github.com/plibither8/periodic-table-words--javascript
+      description: Program written in Node.js to determine whether a given string can be formed by some combination of the symbols of elements of the periodic table.
+      archived: true
+    - name: periodic-table-words--python
+      link: https://github.com/plibither8/periodic-table-words--python
+      description: Program written in Python to determine whether a given string can be formed by some combination of the symbols of elements of the periodic table.
+      archived: true
+
 Games:
   - name: 2048.cpp
     link: https://github.com/plibither8/2048.cpp
@@ -132,43 +173,6 @@ Hackathons:
     link: https://github.com/raghav-kukreti/rosaline
     description: 🎶 [InOut 6.0] AI-powered drum machine which generates unique drum tracks for your lead melodies
     archived: false
-
-Command Line:
-  Tools:
-    - name: licensed
-      link: https://github.com/plibither8/licensed
-      description: ⚖️ ✔️ licensed is an interactive command line tool to help you choose and add licenses to your projects
-      archived: false
-    - name: github-feed-notifier
-      link: https://github.com/plibither8/github-feed-notifier
-      description: 🔔 Desktop notifications for your GitHub dashboard — Native, cross-platform and configurable
-      archived: false
-    - name: wakalogger
-      link: https://github.com/plibither8/wakalogger
-      description: 🕒 Log your daily WakaTime coding activity to a secret Gist
-      archived: false
-    - name: recent-activity-updater
-      link: https://github.com/plibither8/recent-activity-updater
-      description: ✨ Script to update my "recent-activity.json" daily
-      archived: false
-    - name: lastfm-top-artists
-      link: https://github.com/plibither8/lastfm-top-artists
-      description: 📈 Collect user's top artists through time
-      archived: false
-
-  Random Scripts:
-    - name: index
-      link: https://github.com/plibither8/index
-      description: 📂 All my repositories and projects I have worked on, indexed. Also contains code to generate the README file
-      archived: false
-    - name: periodic-table-words--javascript
-      link: https://github.com/plibither8/periodic-table-words--javascript
-      description: Program written in Node.js to determine whether a given string can be formed by some combination of the symbols of elements of the periodic table.
-      archived: true
-    - name: periodic-table-words--python
-      link: https://github.com/plibither8/periodic-table-words--python
-      description: Program written in Python to determine whether a given string can be formed by some combination of the symbols of elements of the periodic table.
-      archived: true
 
 College Projects and Coursework:
   - name: capture-the-flag
