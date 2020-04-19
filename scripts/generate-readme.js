@@ -8,6 +8,8 @@ const targetFile = path.join(__dirname, 'README.md')
 
 let fileContent = `# 📂 index
 
+![Build Status](https://github.com/plibither8/fitbit-heart-rate/workflows/Index%20Update%20Bot/badge.svg)
+
 All my public repositories and projects I have worked on, indexed.<br>
 _Repetitions are allowed :P_
 

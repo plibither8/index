@@ -1,0 +1,41 @@
+name: "Index Update Bot"
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "0 0 * * *" # Every day
+
+jobs:
+  bot:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+
+    - name: Install Node
+      uses: actions/setup-node@v1
+      with:
+        node-version: '12.x'
+
+    - name: Install NPM dependancies
+      run: npm install
+
+    - name: Run code
+      run: |
+        node scripts/repo-details
+        node scripts/generate-readme
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Commit new data
+      run: |
+        git remote remove origin
+        git remote add origin https://plibother8:$ACCESS_TOKEN@github.com/plibither8/index
+        git config --local user.name "plibother8"
+        git config --local user.email "bot@mihir.ch"
+        git add .
+        git commit -m "[AUTO] Update data for $(date +%F)" || echo "No changes to commit"
+        git push origin master
+      env:
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
