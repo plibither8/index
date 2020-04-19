@@ -1,6 +1,9 @@
 const {readFile, writeFile} = require('fs').promises;
+const path = require('path')
 const fetch = require('node-fetch');
 const yaml = require('js-yaml');
+
+const yamlFile = path.join(__dirname, '../index.yaml');
 
 const fetchOptions = {
 	method: 'GET',
@@ -22,7 +25,7 @@ const getRepoDetails = async repo => {
 }
 
 const main = async () => {
-	const yamlText = await readFile('../index.yaml');
+	const yamlText = await readFile(yamlFile);
 	const data = yaml.safeLoad(yamlText);
 
 	for (const [heading1, items1] of Object.entries(data)) {
@@ -47,7 +50,7 @@ const main = async () => {
 	}
 
 	const updatedYaml = yaml.safeDump(data);
-	await writeFile('../index.yaml', updatedYaml);
+	await writeFile(yamlFile, updatedYaml);
 }
 
 (async () => await main())();
