@@ -10,6 +10,8 @@ on:
 jobs:
   bot:
     runs-on: ubuntu-latest
+    if: github.actor == github.repository_owner
+
     steps:
     - uses: actions/checkout@v1
 
