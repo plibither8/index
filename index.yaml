@@ -1,213 +1,457 @@
 Websites:
   - name: mihir.ch
-    link: https://github.com/plibither8/mihir.ch
-    description: 🌐 My personal website's source code
+    repo: plibither8/mihir.ch
+    description: "\U0001F310 My personal website's source code"
     archived: false
+    details:
+      stars: 4
+      updated: 1587038954000
+      created: 1511198901000
+      language: HTML
   - name: v1.mihir.ch
-    link: https://github.com/plibither8/v1.mihir.ch
-    description: 🌐 First version of my personal website
+    repo: plibither8/v1.mihir.ch
+    description: "\U0001F310 First version of my personal website"
     archived: false
+    details:
+      stars: 0
+      updated: 1575262826000
+      created: 1575226294000
+      language: HTML
   - name: swag-for-dev
-    link: https://github.com/swapagarwal/swag-for-dev
-    description: 😎 swag opportunities for developers
+    repo: swapagarwal/swag-for-dev
+    description: "\U0001F60E swag opportunities for developers"
     archived: false
+    details:
+      stars: 3612
+      updated: 1587065624000
+      created: 1518931771000
+      language: JavaScript
   - name: projectbeta-2.0
-    link: https://github.com/Project-Beta/projectbeta-2.0
-    description: Official website of ProjectBeta, 2018 | Change the Status Quo
+    repo: Project-Beta/projectbeta-2.0
+    description: 'Official website of ProjectBeta, 2018 | Change the Status Quo'
     archived: false
+    details:
+      stars: 1
+      updated: 1533958441000
+      created: 1533958357000
+      language: HTML
   - name: sanskriti-school
-    link: https://github.com/Project-Beta/sanskriti-school
-    description: Official website of Sanskriti School, New Delhi, India
+    repo: Project-Beta/sanskriti-school
+    description: 'Official website of Sanskriti School, New Delhi, India'
     archived: false
+    details:
+      stars: 5
+      updated: 1532331484000
+      created: 1511797223000
+      language: HTML
   - name: made-with-love-in
-    link: https://github.com/plibither8/made-with-love-in
-    description: 🛠 ❤️ 🗺 🛡 — Mircoservice for serving and listing "Made with love in <country-name>" badges
+    repo: plibither8/made-with-love-in
+    description: "\U0001F6E0 ❤️ \U0001F5FA \U0001F6E1 — Mircoservice for serving and listing \"Made with love in <country-name>\" badges"
     archived: false
+    details:
+      stars: 12
+      updated: 1569869406000
+      created: 1549963293000
+      language: HTML
   - name: ieee.iiitd.edu.in
-    link: https://github.com/IEEE-IIIT-Delhi/ieee.iiitd.edu.in
+    repo: IEEE-IIIT-Delhi/ieee.iiitd.edu.in
     description: Official website for IIIT Delhi's IEEE Student Branch
     archived: false
+    details:
+      stars: 0
+      updated: 1586966423000
+      created: 1583851012000
+      language: CSS
   - name: sanskriti-mun-2018
-    link: https://github.com/plibither8/sanskriti-mun-2018
+    repo: plibither8/sanskriti-mun-2018
     description: Sanskriti MUN 2018
     archived: false
+    details:
+      stars: 0
+      updated: 1524650202000
+      created: 1514902359000
+      language: CSS
   - name: MatheTraffics-Niamat-Rai-2017
-    link: https://github.com/plibither8/MatheTraffics-Niamat-Rai-2017
-    description: 'Presentation website for Sanskriti School''s prize-winning project on investigatory mathematics: MatheTraffics, Niamat Rai Competition 2017'
+    repo: plibither8/MatheTraffics-Niamat-Rai-2017
+    description: >-
+      Presentation website for Sanskriti School's prize-winning project on
+      investigatory mathematics: MatheTraffics, Niamat Rai Competition 2017
     archived: true
-
+    details:
+      stars: 1
+      updated: 1512570252000
+      created: 1511350295000
+      language: HTML
 Web Apps:
   - name: tiiime
-    link: https://github.com/plibither8/tiiime
-    description: ⏳ [Byld Hackathon v16] Your personal, crowd-sourced timetable
+    repo: plibither8/tiiime
+    description: '⏳ [Byld Hackathon v16] Your personal, crowd-sourced timetable'
     archived: false
+    details:
+      stars: 0
+      updated: 1569766872000
+      created: 1569765341000
+      language: HTML
   - name: rosaline
-    link: https://github.com/raghav-kukreti/rosaline
-    description: 🎶 [InOut 6.0] AI-powered drum machine which generates unique drum tracks for your lead melodies
+    repo: raghav-kukreti/rosaline
+    description: "\U0001F3B6 [InOut 6.0] AI-powered drum machine which generates unique drum tracks for your lead melodies"
     archived: false
+    details:
+      stars: 0
+      updated: 1571584033000
+      created: 1570085790000
+      language: JavaScript
   - name: quiz-finals-app
-    link: https://github.com/Project-Beta/quiz-finals-app
-    description: 📊 Score-keeping app for ProjectBeta's Quiz finals
+    repo: Project-Beta/quiz-finals-app
+    description: "\U0001F4CA Score-keeping app for ProjectBeta's Quiz finals"
     archived: false
+    details:
+      stars: 4
+      updated: 1533957628000
+      created: 1522350556000
+      language: HTML
   - name: single-elimination-brackets
-    link: https://github.com/Project-Beta/single-elimination-brackets
-    description: 🏆 App to display live the teams being eliminated in a single-elimination tournament
+    repo: Project-Beta/single-elimination-brackets
+    description: "\U0001F3C6 App to display live the teams being eliminated in a single-elimination tournament"
     archived: false
-
+    details:
+      stars: 0
+      updated: 1534569333000
+      created: 1533903422000
+      language: JavaScript
 Extensions:
   Browser:
     - name: markdown-new-tab
-      link: https://github.com/plibither8/markdown-new-tab
-      description: 🗒️ ⏰ ✅ Save notes in Markdown directly in the 'New Tab' page
+      repo: plibither8/markdown-new-tab
+      description: "\U0001F5D2️ ⏰ ✅ Save notes in Markdown directly in the 'New Tab' page"
       archived: false
+      details:
+        stars: 722
+        updated: 1587058729000
+        created: 1529698299000
+        language: CSS
     - name: refined-hacker-news
-      link: https://github.com/plibither8/refined-hacker-news
-      description: ✨ Hacker News, but refined — Interface tweaks and features to make the HN experience better
+      repo: plibither8/refined-hacker-news
+      description: >-
+        ✨ Hacker News, but refined — Interface tweaks and features to make the
+        HN experience better
       archived: false
+      details:
+        stars: 362
+        updated: 1587056369000
+        created: 1551976964000
+        language: JavaScript
     - name: asciinema-player-for-github
-      link: https://github.com/plibither8/asciinema-player-for-github
-      description: 🎬✨ Browser extension to automatically detect asciinema links in a project's README and embed the asciinema player in its place
+      repo: plibither8/asciinema-player-for-github
+      description: "\U0001F3AC✨ Browser extension to automatically detect asciinema links in a project's README and embed the asciinema player in its place"
       archived: false
+      details:
+        stars: 16
+        updated: 1562160300000
+        created: 1549705604000
+        language: JavaScript
     - name: chrome-view-images-button
-      link: https://github.com/plibither8/chrome-view-images-button
-      description: Chrome Extension to get back the "View Image" button in Google Image search results!
+      repo: plibither8/chrome-view-images-button
+      description: >-
+        Chrome Extension to get back the "View Image" button in Google Image
+        search results!
       archived: true
+      details:
+        stars: 2
+        updated: 1518804772000
+        created: 1518791079000
+        language: JavaScript
     - name: browser-extension-starter
-      link: https://github.com/plibither8/browser-extension-starter
-      description: 📦 Cross-browser extension starter template
+      repo: plibither8/browser-extension-starter
+      description: "\U0001F4E6 Cross-browser extension starter template"
       archived: true
-
+      details:
+        stars: 2
+        updated: 1562351491000
+        created: 1562173290000
+        language: JavaScript
   Visual Studio Code:
     - name: vscode-remove-comments
-      link: https://github.com/plibither8/vscode-remove-comments
-      description: 🚫 VS Code extension to remove all comments from your code at once — 60+ languages supported
+      repo: plibither8/vscode-remove-comments
+      description: "\U0001F6AB VS Code extension to remove all comments from your code at once — 60+ languages supported"
       archived: false
-
+      details:
+        stars: 14
+        updated: 1559706818000
+        created: 1524740940000
+        language: TypeScript
 APIs and Microservices:
   - name: made-with-love-in
-    link: https://github.com/plibither8/made-with-love-in
-    description: 🛠️ ❤️ 🗺️ 🛡️ — Mircoservice for serving and listing "Made with love in <country-name>" badges
+    repo: plibither8/made-with-love-in
+    description: "\U0001F6E0️ ❤️ \U0001F5FA️ \U0001F6E1️ — Mircoservice for serving and listing \"Made with love in <country-name>\" badges"
     archived: false
+    details:
+      stars: 12
+      updated: 1569869406000
+      created: 1549963293000
+      language: HTML
   - name: wayback
-    link: https://github.com/plibither8/wayback
-    description: 🏛 Microservice that redirects to archived version of the URL if found, otherwise saves it to the Internet Archive
+    repo: plibither8/wayback
+    description: "\U0001F3DB Microservice that redirects to archived version of the URL if found, otherwise saves it to the Internet Archive"
     archived: false
+    details:
+      stars: 2
+      updated: 1576437563000
+      created: 1576151786000
+      language: JavaScript
   - name: tg-bots
-    link: https://github.com/plibither8/tg-bots
-    description: 🤖 Tiny service to send messages with a uniform interface for all my Telegram bots
+    repo: plibither8/tg-bots
+    description: "\U0001F916 Tiny service to send messages with a uniform interface for all my Telegram bots"
     archived: false
+    details:
+      stars: 0
+      updated: 1576599843000
+      created: 1569590394000
+      language: JavaScript
   - name: hn-faves-api
-    link: https://github.com/plibither8/hn-faves-api
-    description: 🌐 Tiny API to get user's favorited items on Hacker News
+    repo: plibither8/hn-faves-api
+    description: "\U0001F310 Tiny API to get user's favorited items on Hacker News"
     archived: false
+    details:
+      stars: 5
+      updated: 1569338766000
+      created: 1569337570000
+      language: JavaScript
   - name: url-title-api
-    link: https://github.com/plibither8/url-title-api
-    description: 🔗 Tiny API to get the title of webpage from its URL
+    repo: plibither8/url-title-api
+    description: "\U0001F517 Tiny API to get the title of webpage from its URL"
     archived: false
+    details:
+      stars: 1
+      updated: 1576048792000
+      created: 1575909340000
+      language: JavaScript
   - name: delhi-metro-api
-    link: https://github.com/plibither8/delhi-metro-api
-    description: 🚇 (unofficial) RESTful API for the Delhi Metro [Work in Progress]
+    repo: plibither8/delhi-metro-api
+    description: "\U0001F687 (unofficial) RESTful API for the Delhi Metro [Work in Progress]"
     archived: false
-
+    details:
+      stars: 8
+      updated: 1566981344000
+      created: 1537030450000
+      language: JavaScript
 Command Line:
   Tools:
     - name: licensed
-      link: https://github.com/plibither8/licensed
-      description: ⚖️ ✔️ licensed is an interactive command line tool to help you choose and add licenses to your projects
+      repo: plibither8/licensed
+      description: >-
+        ⚖️ ✔️ licensed is an interactive command line tool to help you choose
+        and add licenses to your projects
       archived: false
+      details:
+        stars: 199
+        updated: 1584624110000
+        created: 1528021009000
+        language: JavaScript
     - name: github-feed-notifier
-      link: https://github.com/plibither8/github-feed-notifier
-      description: 🔔 Desktop notifications for your GitHub dashboard — Native, cross-platform and configurable
+      repo: plibither8/github-feed-notifier
+      description: "\U0001F514 Desktop notifications for your GitHub dashboard — Native, cross-platform and configurable"
       archived: false
+      details:
+        stars: 13
+        updated: 1535558509000
+        created: 1531670042000
+        language: JavaScript
     - name: wakalogger
-      link: https://github.com/plibither8/wakalogger
-      description: 🕒 Log your daily WakaTime coding activity to a secret Gist
+      repo: plibither8/wakalogger
+      description: "\U0001F552 Log your daily WakaTime coding activity to a secret Gist"
       archived: false
+      details:
+        stars: 0
+        updated: 1576850534000
+        created: 1562778075000
+        language: JavaScript
     - name: recent-activity-updater
-      link: https://github.com/plibither8/recent-activity-updater
+      repo: plibither8/recent-activity-updater
       description: ✨ Script to update my "recent-activity.json" daily
       archived: false
+      details:
+        stars: 1
+        updated: 1586248397000
+        created: 1576519172000
+        language: JavaScript
     - name: lastfm-top-artists
-      link: https://github.com/plibither8/lastfm-top-artists
-      description: 📈 Collect user's top artists through time
+      repo: plibither8/lastfm-top-artists
+      description: "\U0001F4C8 Collect user's top artists through time"
       archived: false
+      details:
+        stars: 0
+        updated: 1585922702000
+        created: 1585815656000
+        language: JavaScript
     - name: fitbit-heart-rate
-      link: https://github.com/plibither8/fitbit-heart-rate
-      description: 💓 Collect lifetime heart rate data on Fitbit
+      repo: plibither8/fitbit-heart-rate
+      description: "\U0001F493 Collect lifetime heart rate data on Fitbit"
       archived: false
-
+      details:
+        stars: 1
+        updated: 1587227314000
+        created: 1587206598000
+        language: JavaScript
   Random Scripts:
     - name: index
-      link: https://github.com/plibither8/index
-      description: 📂 All my repositories and projects I have worked on, indexed. Also contains code to generate the README file
+      repo: plibither8/index
+      description: "\U0001F4C2 All my repositories and projects I have worked on, indexed. Also contains code to generate the README file"
       archived: false
+      details:
+        stars: 0
+        updated: 1587227599000
+        created: 1576435852000
+        language: JavaScript
     - name: periodic-table-words--javascript
-      link: https://github.com/plibither8/periodic-table-words--javascript
-      description: Program written in Node.js to determine whether a given string can be formed by some combination of the symbols of elements of the periodic table.
+      repo: plibither8/periodic-table-words--javascript
+      description: >-
+        Program written in Node.js to determine whether a given string can be
+        formed by some combination of the symbols of elements of the periodic
+        table.
       archived: true
+      details:
+        stars: 2
+        updated: 1521720572000
+        created: 1520139309000
+        language: TypeScript
     - name: periodic-table-words--python
-      link: https://github.com/plibither8/periodic-table-words--python
-      description: Program written in Python to determine whether a given string can be formed by some combination of the symbols of elements of the periodic table.
+      repo: plibither8/periodic-table-words--python
+      description: >-
+        Program written in Python to determine whether a given string can be
+        formed by some combination of the symbols of elements of the periodic
+        table.
       archived: true
-
+      details:
+        stars: 1
+        updated: 1521720540000
+        created: 1521720517000
+        language: Python
 Games:
   - name: 2048.cpp
-    link: https://github.com/plibither8/2048.cpp
-    description: 🎮 Fully featured terminal version of the game "2048" written in C++
+    repo: plibither8/2048.cpp
+    description: "\U0001F3AE Fully featured terminal version of the game \"2048\" written in C++"
     archived: false
+    details:
+      stars: 1465
+      updated: 1582168550000
+      created: 1522653245000
+      language: C++
   - name: capture-the-flag
-    link: https://github.com/plibither8/capture-the-flag
-    description: 🚩 [DES130 Minor Project] Basic single/multi-player maze game built using Processing and Arduino-controlled inputs
+    repo: plibither8/capture-the-flag
+    description: "\U0001F6A9 [DES130 Minor Project] Basic single/multi-player maze game built using Processing and Arduino-controlled inputs"
     archived: false
+    details:
+      stars: 0
+      updated: 1569258544000
+      created: 1567863840000
+      language: Processing
   - name: ultimate-tic-tac-toe
-    link: https://github.com/plibither8/ultimate-tic-tac-toe
+    repo: plibither8/ultimate-tic-tac-toe
     description: A simple JS+HTML implementation of the 2-player game Ultimate Tic Tac Toe
     archived: true
-
+    details:
+      stars: 1
+      updated: 1505577068000
+      created: 1505563366000
+      language: HTML
 Hackathons:
   - name: tiiime
-    link: https://github.com/plibither8/tiiime
-    description: ⏳ [Byld Hackathon v16] Your personal, crowd-sourced timetable
+    repo: plibither8/tiiime
+    description: '⏳ [Byld Hackathon v16] Your personal, crowd-sourced timetable'
     archived: false
+    details:
+      stars: 0
+      updated: 1569766872000
+      created: 1569765341000
+      language: HTML
   - name: rosaline
-    link: https://github.com/raghav-kukreti/rosaline
-    description: 🎶 [InOut 6.0] AI-powered drum machine which generates unique drum tracks for your lead melodies
+    repo: raghav-kukreti/rosaline
+    description: "\U0001F3B6 [InOut 6.0] AI-powered drum machine which generates unique drum tracks for your lead melodies"
     archived: false
-
+    details:
+      stars: 0
+      updated: 1571584033000
+      created: 1570085790000
+      language: JavaScript
 College Projects and Coursework:
   - name: capture-the-flag
-    link: https://github.com/plibither8/capture-the-flag
-    description: 🚩 [DES130 Minor Project] Basic single/multi-player maze game built using Processing and Arduino-controlled inputs
+    repo: plibither8/capture-the-flag
+    description: "\U0001F6A9 [DES130 Minor Project] Basic single/multi-player maze game built using Processing and Arduino-controlled inputs"
     archived: false
+    details:
+      stars: 0
+      updated: 1569258544000
+      created: 1567863840000
+      language: Processing
   - name: percepio-2.0
-    link: https://github.com/plibither8/percepio-2.0
-    description: 👓 [DES130 Major Project] Taking notes made simple — in the air, on the go
+    repo: plibither8/percepio-2.0
+    description: "\U0001F453 [DES130 Major Project] Taking notes made simple — in the air, on the go"
     archived: false
+    details:
+      stars: 1
+      updated: 1575199017000
+      created: 1574860335000
+      language: C++
   - name: qr-decomposition
-    link: https://github.com/plibither8/qr-decomposition
+    repo: plibither8/qr-decomposition
     description: QR Decomposition by the Gram-Schmidt Process
     archived: true
+    details:
+      stars: 0
+      updated: 1573578065000
+      created: 1573368330000
+      language: Python
   - name: iiitd_cse101
-    link: https://github.com/plibither8/iiitd_cse101
+    repo: plibither8/iiitd_cse101
     description: 'Semester 1: Introduction to Programming'
     archived: true
-
+    details:
+      stars: 0
+      updated: 1573362259000
+      created: 1566834563000
+      language: Python
 Node Libraries:
   - name: big-number.js
-    link: https://github.com/plibither8/big-number.js
-    description: big-number.js is a calculator for arbitrarily large integers, for JavaScript.
+    repo: plibither8/big-number.js
+    description: >-
+      big-number.js is a calculator for arbitrarily large integers, for
+      JavaScript.
     archived: true
+    details:
+      stars: 1
+      updated: 1517152449000
+      created: 1517040935000
+      language: JavaScript
   - name: Factorial.js
-    link: https://github.com/plibither8/Factorial.js
-    description: Arbitrarily large integer factorial calculation using JS string manipulations
+    repo: plibither8/Factorial.js
+    description: >-
+      Arbitrarily large integer factorial calculation using JS string
+      manipulations
     archived: true
+    details:
+      stars: 0
+      updated: 1509771988000
+      created: 1509771595000
+      language: JavaScript
   - name: getchar
-    link: https://github.com/plibither8/getchar
-    description: ⌨️ getchar is a module that gets a character from the stdin. Similar to `getch` and `getchar` in C and C++.
+    repo: plibither8/getchar
+    description: >-
+      ⌨️ getchar is a module that gets a character from the stdin. Similar to
+      `getch` and `getchar` in C and C++.
     archived: true
-
+    details:
+      stars: 0
+      updated: 1529602114000
+      created: 1529601484000
+      language: JavaScript
 Miscellaneous:
   - name: project-euler-assembly
-    link: https://github.com/plibither8/project-euler-assembly
+    repo: plibither8/project-euler-assembly
     description: Solutions to Project Euler in x86_64 Assembly
     archived: true
+    details:
+      stars: 0
+      updated: 1526920971000
+      created: 1526920510000
+      language: Assembly

@@ -21,7 +21,7 @@ const main = async () => {
 	const data = yaml.safeLoad(yamlText)
 
 	const listString = item =>
-		`* [${item.name}](${item.link}) - ${item.description}${item.archived ? ' ❗️' : ''}\n`;
+		`* [${item.name}](https://github.com/${item.repo}) - ${item.description}${item.archived ? ' ❗️' : ''}\n`;
 
 	for (const [headingLvl1, itemsLvl1] of Object.entries(data)) {
 		fileContent += `## ${headingLvl1}\n\n`
