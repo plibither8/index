@@ -56,13 +56,13 @@ _Repetitions are allowed :P_
 * [licensed](https://github.com/plibither8/licensed) - ⚖️ ✔️ licensed is an interactive command line tool to help you choose and add licenses to your projects
 * [github-feed-notifier](https://github.com/plibither8/github-feed-notifier) - 🔔 Desktop notifications for your GitHub dashboard — Native, cross-platform and configurable
 * [wakalogger](https://github.com/plibither8/wakalogger) - 🕒 Log your daily WakaTime coding activity to a secret Gist
-* [recent-activity-updater](https://github.com/plibither8/recent-activity-updater) - ✨ Script to update my "recent-activity.json" daily
 * [lastfm-top-artists](https://github.com/plibither8/lastfm-top-artists) - 📈 Collect user's top artists through time
 * [fitbit-heart-rate](https://github.com/plibither8/fitbit-heart-rate) - 💓 Collect lifetime heart rate data on Fitbit
 
 ### Random Scripts
 
 * [index](https://github.com/plibither8/index) - 📂 All my repositories and projects I have worked on, indexed. Also contains code to generate the README file
+* [recent-activity-updater](https://github.com/plibither8/recent-activity-updater) - ✨ Script to update my "recent-activity.json" daily
 * [periodic-table-words--javascript](https://github.com/plibither8/periodic-table-words--javascript) - Program written in Node.js to determine whether a given string can be formed by some combination of the symbols of elements of the periodic table. ❗️
 * [periodic-table-words--python](https://github.com/plibither8/periodic-table-words--python) - Program written in Python to determine whether a given string can be formed by some combination of the symbols of elements of the periodic table. ❗️
 
