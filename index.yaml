@@ -294,16 +294,6 @@ Command Line:
         created: 1562778075000
         language: JavaScript
         color: '#f1e05a'
-    - name: recent-activity-updater
-      repo: plibither8/recent-activity-updater
-      description: ✨ Script to update my "recent-activity.json" daily
-      archived: false
-      details:
-        stars: 1
-        updated: 1586248397000
-        created: 1576519172000
-        language: JavaScript
-        color: '#f1e05a'
     - name: lastfm-top-artists
       repo: plibither8/lastfm-top-artists
       description: "\U0001F4C8 Collect user's top artists through time"
@@ -333,6 +323,16 @@ Command Line:
         stars: 0
         updated: 1587289823000
         created: 1576435852000
+        language: JavaScript
+        color: '#f1e05a'
+    - name: recent-activity-updater
+      repo: plibither8/recent-activity-updater
+      description: ✨ Script to update my "recent-activity.json" daily
+      archived: false
+      details:
+        stars: 1
+        updated: 1586248397000
+        created: 1576519172000
         language: JavaScript
         color: '#f1e05a'
     - name: periodic-table-words--javascript
