@@ -3,8 +3,8 @@ const path = require('path')
 
 const yaml = require('js-yaml')
 
-const sourceFile = path.join(__dirname, 'index.yaml')
-const targetFile = path.join(__dirname, 'README.md')
+const sourceFile = path.join(__dirname, '../index.yaml')
+const targetFile = path.join(__dirname, '../README.md')
 
 let fileContent = `# 📂 index
 

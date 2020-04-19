@@ -22,7 +22,7 @@ const getRepoDetails = async repo => {
 }
 
 const main = async () => {
-	const yamlText = await readFile('index.yaml');
+	const yamlText = await readFile('../index.yaml');
 	const data = yaml.safeLoad(yamlText);
 
 	for (const [heading1, items1] of Object.entries(data)) {
@@ -47,7 +47,7 @@ const main = async () => {
 	}
 
 	const updatedYaml = yaml.safeDump(data);
-	await writeFile('index.yaml', updatedYaml);
+	await writeFile('../index.yaml', updatedYaml);
 }
 
 (async () => await main())();

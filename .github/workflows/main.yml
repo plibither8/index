@@ -35,7 +35,7 @@ jobs:
         git config --local user.name "plibother8"
         git config --local user.email "bot@mihir.ch"
         git add .
-        git commit -m "[AUTO] Update data for $(date +%F)" || echo "No changes to commit"
-        git push origin master
+        git commit -m "[AUTO] Update index data for $(date +%F)" || echo "No changes to commit"
+        git push origin HEAD:master
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
