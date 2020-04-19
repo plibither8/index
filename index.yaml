@@ -5,9 +5,10 @@ Websites:
     archived: false
     details:
       stars: 4
-      updated: 1587038954000
+      updated: 1587291883000
       created: 1511198901000
       language: HTML
+      color: '#e34c26'
   - name: v1.mihir.ch
     repo: plibither8/v1.mihir.ch
     description: "\U0001F310 First version of my personal website"
@@ -17,6 +18,7 @@ Websites:
       updated: 1575262826000
       created: 1575226294000
       language: HTML
+      color: '#e34c26'
   - name: swag-for-dev
     repo: swapagarwal/swag-for-dev
     description: "\U0001F60E swag opportunities for developers"
@@ -26,6 +28,7 @@ Websites:
       updated: 1587065624000
       created: 1518931771000
       language: JavaScript
+      color: '#f1e05a'
   - name: projectbeta-2.0
     repo: Project-Beta/projectbeta-2.0
     description: 'Official website of ProjectBeta, 2018 | Change the Status Quo'
@@ -35,6 +38,7 @@ Websites:
       updated: 1533958441000
       created: 1533958357000
       language: HTML
+      color: '#e34c26'
   - name: sanskriti-school
     repo: Project-Beta/sanskriti-school
     description: 'Official website of Sanskriti School, New Delhi, India'
@@ -44,6 +48,7 @@ Websites:
       updated: 1532331484000
       created: 1511797223000
       language: HTML
+      color: '#e34c26'
   - name: made-with-love-in
     repo: plibither8/made-with-love-in
     description: "\U0001F6E0 ❤️ \U0001F5FA \U0001F6E1 — Mircoservice for serving and listing \"Made with love in <country-name>\" badges"
@@ -53,6 +58,7 @@ Websites:
       updated: 1569869406000
       created: 1549963293000
       language: HTML
+      color: '#e34c26'
   - name: ieee.iiitd.edu.in
     repo: IEEE-IIIT-Delhi/ieee.iiitd.edu.in
     description: Official website for IIIT Delhi's IEEE Student Branch
@@ -62,6 +68,7 @@ Websites:
       updated: 1586966423000
       created: 1583851012000
       language: CSS
+      color: '#563d7c'
   - name: sanskriti-mun-2018
     repo: plibither8/sanskriti-mun-2018
     description: Sanskriti MUN 2018
@@ -71,6 +78,7 @@ Websites:
       updated: 1524650202000
       created: 1514902359000
       language: CSS
+      color: '#563d7c'
   - name: MatheTraffics-Niamat-Rai-2017
     repo: plibither8/MatheTraffics-Niamat-Rai-2017
     description: >-
@@ -82,6 +90,7 @@ Websites:
       updated: 1512570252000
       created: 1511350295000
       language: HTML
+      color: '#e34c26'
 Web Apps:
   - name: tiiime
     repo: plibither8/tiiime
@@ -92,6 +101,7 @@ Web Apps:
       updated: 1569766872000
       created: 1569765341000
       language: HTML
+      color: '#e34c26'
   - name: rosaline
     repo: raghav-kukreti/rosaline
     description: "\U0001F3B6 [InOut 6.0] AI-powered drum machine which generates unique drum tracks for your lead melodies"
@@ -101,6 +111,7 @@ Web Apps:
       updated: 1571584033000
       created: 1570085790000
       language: JavaScript
+      color: '#f1e05a'
   - name: quiz-finals-app
     repo: Project-Beta/quiz-finals-app
     description: "\U0001F4CA Score-keeping app for ProjectBeta's Quiz finals"
@@ -110,6 +121,7 @@ Web Apps:
       updated: 1533957628000
       created: 1522350556000
       language: HTML
+      color: '#e34c26'
   - name: single-elimination-brackets
     repo: Project-Beta/single-elimination-brackets
     description: "\U0001F3C6 App to display live the teams being eliminated in a single-elimination tournament"
@@ -119,6 +131,7 @@ Web Apps:
       updated: 1534569333000
       created: 1533903422000
       language: JavaScript
+      color: '#f1e05a'
 Extensions:
   Browser:
     - name: markdown-new-tab
@@ -130,6 +143,7 @@ Extensions:
         updated: 1587058729000
         created: 1529698299000
         language: CSS
+        color: '#563d7c'
     - name: refined-hacker-news
       repo: plibither8/refined-hacker-news
       description: >-
@@ -141,6 +155,7 @@ Extensions:
         updated: 1587056369000
         created: 1551976964000
         language: JavaScript
+        color: '#f1e05a'
     - name: asciinema-player-for-github
       repo: plibither8/asciinema-player-for-github
       description: "\U0001F3AC✨ Browser extension to automatically detect asciinema links in a project's README and embed the asciinema player in its place"
@@ -150,6 +165,7 @@ Extensions:
         updated: 1562160300000
         created: 1549705604000
         language: JavaScript
+        color: '#f1e05a'
     - name: chrome-view-images-button
       repo: plibither8/chrome-view-images-button
       description: >-
@@ -161,6 +177,7 @@ Extensions:
         updated: 1518804772000
         created: 1518791079000
         language: JavaScript
+        color: '#f1e05a'
     - name: browser-extension-starter
       repo: plibither8/browser-extension-starter
       description: "\U0001F4E6 Cross-browser extension starter template"
@@ -170,6 +187,7 @@ Extensions:
         updated: 1562351491000
         created: 1562173290000
         language: JavaScript
+        color: '#f1e05a'
   Visual Studio Code:
     - name: vscode-remove-comments
       repo: plibither8/vscode-remove-comments
@@ -180,6 +198,7 @@ Extensions:
         updated: 1559706818000
         created: 1524740940000
         language: TypeScript
+        color: '#2b7489'
 APIs and Microservices:
   - name: made-with-love-in
     repo: plibither8/made-with-love-in
@@ -190,6 +209,7 @@ APIs and Microservices:
       updated: 1569869406000
       created: 1549963293000
       language: HTML
+      color: '#e34c26'
   - name: wayback
     repo: plibither8/wayback
     description: "\U0001F3DB Microservice that redirects to archived version of the URL if found, otherwise saves it to the Internet Archive"
@@ -199,6 +219,7 @@ APIs and Microservices:
       updated: 1576437563000
       created: 1576151786000
       language: JavaScript
+      color: '#f1e05a'
   - name: tg-bots
     repo: plibither8/tg-bots
     description: "\U0001F916 Tiny service to send messages with a uniform interface for all my Telegram bots"
@@ -208,6 +229,7 @@ APIs and Microservices:
       updated: 1576599843000
       created: 1569590394000
       language: JavaScript
+      color: '#f1e05a'
   - name: hn-faves-api
     repo: plibither8/hn-faves-api
     description: "\U0001F310 Tiny API to get user's favorited items on Hacker News"
@@ -217,6 +239,7 @@ APIs and Microservices:
       updated: 1569338766000
       created: 1569337570000
       language: JavaScript
+      color: '#f1e05a'
   - name: url-title-api
     repo: plibither8/url-title-api
     description: "\U0001F517 Tiny API to get the title of webpage from its URL"
@@ -226,6 +249,7 @@ APIs and Microservices:
       updated: 1576048792000
       created: 1575909340000
       language: JavaScript
+      color: '#f1e05a'
   - name: delhi-metro-api
     repo: plibither8/delhi-metro-api
     description: "\U0001F687 (unofficial) RESTful API for the Delhi Metro [Work in Progress]"
@@ -235,6 +259,7 @@ APIs and Microservices:
       updated: 1566981344000
       created: 1537030450000
       language: JavaScript
+      color: '#f1e05a'
 Command Line:
   Tools:
     - name: licensed
@@ -248,6 +273,7 @@ Command Line:
         updated: 1584624110000
         created: 1528021009000
         language: JavaScript
+        color: '#f1e05a'
     - name: github-feed-notifier
       repo: plibither8/github-feed-notifier
       description: "\U0001F514 Desktop notifications for your GitHub dashboard — Native, cross-platform and configurable"
@@ -257,6 +283,7 @@ Command Line:
         updated: 1535558509000
         created: 1531670042000
         language: JavaScript
+        color: '#f1e05a'
     - name: wakalogger
       repo: plibither8/wakalogger
       description: "\U0001F552 Log your daily WakaTime coding activity to a secret Gist"
@@ -266,6 +293,7 @@ Command Line:
         updated: 1576850534000
         created: 1562778075000
         language: JavaScript
+        color: '#f1e05a'
     - name: recent-activity-updater
       repo: plibither8/recent-activity-updater
       description: ✨ Script to update my "recent-activity.json" daily
@@ -275,6 +303,7 @@ Command Line:
         updated: 1586248397000
         created: 1576519172000
         language: JavaScript
+        color: '#f1e05a'
     - name: lastfm-top-artists
       repo: plibither8/lastfm-top-artists
       description: "\U0001F4C8 Collect user's top artists through time"
@@ -284,6 +313,7 @@ Command Line:
         updated: 1585922702000
         created: 1585815656000
         language: JavaScript
+        color: '#f1e05a'
     - name: fitbit-heart-rate
       repo: plibither8/fitbit-heart-rate
       description: "\U0001F493 Collect lifetime heart rate data on Fitbit"
@@ -293,6 +323,7 @@ Command Line:
         updated: 1587284351000
         created: 1587206598000
         language: JavaScript
+        color: '#f1e05a'
   Random Scripts:
     - name: index
       repo: plibither8/index
@@ -300,9 +331,10 @@ Command Line:
       archived: false
       details:
         stars: 0
-        updated: 1587289688000
+        updated: 1587289823000
         created: 1576435852000
         language: JavaScript
+        color: '#f1e05a'
     - name: periodic-table-words--javascript
       repo: plibither8/periodic-table-words--javascript
       description: >-
@@ -315,6 +347,7 @@ Command Line:
         updated: 1521720572000
         created: 1520139309000
         language: TypeScript
+        color: '#2b7489'
     - name: periodic-table-words--python
       repo: plibither8/periodic-table-words--python
       description: >-
@@ -327,6 +360,7 @@ Command Line:
         updated: 1521720540000
         created: 1521720517000
         language: Python
+        color: '#3572A5'
 Games:
   - name: 2048.cpp
     repo: plibither8/2048.cpp
@@ -337,6 +371,7 @@ Games:
       updated: 1582168550000
       created: 1522653245000
       language: C++
+      color: '#f34b7d'
   - name: capture-the-flag
     repo: plibither8/capture-the-flag
     description: "\U0001F6A9 [DES130 Minor Project] Basic single/multi-player maze game built using Processing and Arduino-controlled inputs"
@@ -346,6 +381,7 @@ Games:
       updated: 1569258544000
       created: 1567863840000
       language: Processing
+      color: '#0096D8'
   - name: ultimate-tic-tac-toe
     repo: plibither8/ultimate-tic-tac-toe
     description: A simple JS+HTML implementation of the 2-player game Ultimate Tic Tac Toe
@@ -355,6 +391,7 @@ Games:
       updated: 1505577068000
       created: 1505563366000
       language: HTML
+      color: '#e34c26'
 Hackathons:
   - name: tiiime
     repo: plibither8/tiiime
@@ -365,6 +402,7 @@ Hackathons:
       updated: 1569766872000
       created: 1569765341000
       language: HTML
+      color: '#e34c26'
   - name: rosaline
     repo: raghav-kukreti/rosaline
     description: "\U0001F3B6 [InOut 6.0] AI-powered drum machine which generates unique drum tracks for your lead melodies"
@@ -374,6 +412,7 @@ Hackathons:
       updated: 1571584033000
       created: 1570085790000
       language: JavaScript
+      color: '#f1e05a'
 College Projects and Coursework:
   - name: capture-the-flag
     repo: plibither8/capture-the-flag
@@ -384,6 +423,7 @@ College Projects and Coursework:
       updated: 1569258544000
       created: 1567863840000
       language: Processing
+      color: '#0096D8'
   - name: percepio-2.0
     repo: plibither8/percepio-2.0
     description: "\U0001F453 [DES130 Major Project] Taking notes made simple — in the air, on the go"
@@ -393,6 +433,7 @@ College Projects and Coursework:
       updated: 1575199017000
       created: 1574860335000
       language: C++
+      color: '#f34b7d'
   - name: qr-decomposition
     repo: plibither8/qr-decomposition
     description: QR Decomposition by the Gram-Schmidt Process
@@ -402,6 +443,7 @@ College Projects and Coursework:
       updated: 1573578065000
       created: 1573368330000
       language: Python
+      color: '#3572A5'
   - name: iiitd_cse101
     repo: plibither8/iiitd_cse101
     description: 'Semester 1: Introduction to Programming'
@@ -411,6 +453,7 @@ College Projects and Coursework:
       updated: 1573362259000
       created: 1566834563000
       language: Python
+      color: '#3572A5'
 Node Libraries:
   - name: big-number.js
     repo: plibither8/big-number.js
@@ -423,6 +466,7 @@ Node Libraries:
       updated: 1517152449000
       created: 1517040935000
       language: JavaScript
+      color: '#f1e05a'
   - name: Factorial.js
     repo: plibither8/Factorial.js
     description: >-
@@ -434,6 +478,7 @@ Node Libraries:
       updated: 1509771988000
       created: 1509771595000
       language: JavaScript
+      color: '#f1e05a'
   - name: getchar
     repo: plibither8/getchar
     description: >-
@@ -445,6 +490,7 @@ Node Libraries:
       updated: 1529602114000
       created: 1529601484000
       language: JavaScript
+      color: '#f1e05a'
 Miscellaneous:
   - name: project-euler-assembly
     repo: plibither8/project-euler-assembly
@@ -455,3 +501,4 @@ Miscellaneous:
       updated: 1526920971000
       created: 1526920510000
       language: Assembly
+      color: '#6E4C13'
