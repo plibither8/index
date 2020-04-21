@@ -5,7 +5,7 @@ Websites:
     archived: false
     details:
       stars: 4
-      updated: 1587307634000
+      updated: 1587400939000
       created: 1511198901000
       language: HTML
       color: '#e34c26'
@@ -24,8 +24,8 @@ Websites:
     description: "\U0001F60E swag opportunities for developers"
     archived: false
     details:
-      stars: 3614
-      updated: 1587065624000
+      stars: 3615
+      updated: 1587408409000
       created: 1518931771000
       language: JavaScript
       color: '#f1e05a'
@@ -151,7 +151,7 @@ Extensions:
         HN experience better
       archived: false
       details:
-        stars: 362
+        stars: 361
         updated: 1587056369000
         created: 1551976964000
         language: JavaScript
@@ -321,7 +321,7 @@ Command Line:
       archived: false
       details:
         stars: 0
-        updated: 1587308163000
+        updated: 1587340980000
         created: 1576435852000
         language: JavaScript
         color: '#f1e05a'
@@ -367,7 +367,7 @@ Games:
     description: "\U0001F3AE Fully featured terminal version of the game \"2048\" written in C++"
     archived: false
     details:
-      stars: 1465
+      stars: 1466
       updated: 1582168550000
       created: 1522653245000
       language: C++
