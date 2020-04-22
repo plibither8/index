@@ -58,11 +58,13 @@ _Repetitions are allowed :P_
 * [wakalogger](https://github.com/plibither8/wakalogger) - 🕒 Log your daily WakaTime coding activity to a secret Gist
 * [lastfm-top-artists](https://github.com/plibither8/lastfm-top-artists) - 📈 Collect user's top artists through time
 * [fitbit-heart-rate](https://github.com/plibither8/fitbit-heart-rate) - 💓 Collect lifetime heart rate data on Fitbit
+* [wayback-sitemap-archive](https://github.com/plibither8/wayback-sitemap-archive) - 🏛️ Archive all pages specified in the webpage's sitemap to Internet Archive's Wayback Machine
 
 ### Random Scripts
 
 * [index](https://github.com/plibither8/index) - 📂 All my repositories and projects I have worked on, indexed. Also contains code to generate the README file
 * [recent-activity-updater](https://github.com/plibither8/recent-activity-updater) - ✨ Script to update my "recent-activity.json" daily
+* [gh-followers-tracker](https://github.com/plibither8/gh-followers-tracker) - 🔔 Tracking my GitHub following and un-following with notification on Telegram (why not lol)
 * [periodic-table-words--javascript](https://github.com/plibither8/periodic-table-words--javascript) - Program written in Node.js to determine whether a given string can be formed by some combination of the symbols of elements of the periodic table. ❗️
 * [periodic-table-words--python](https://github.com/plibither8/periodic-table-words--python) - Program written in Python to determine whether a given string can be formed by some combination of the symbols of elements of the periodic table. ❗️
 
