@@ -139,7 +139,7 @@ Extensions:
       description: "\U0001F5D2️ ⏰ ✅ Save notes in Markdown directly in the 'New Tab' page"
       archived: false
       details:
-        stars: 722
+        stars: 721
         updated: 1587058729000
         created: 1529698299000
         language: CSS
@@ -321,7 +321,7 @@ Command Line:
       archived: false
       details:
         stars: 0
-        updated: 1587446511000
+        updated: 1587446540000
         created: 1576435852000
         language: JavaScript
         color: '#f1e05a'
