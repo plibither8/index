@@ -314,6 +314,10 @@ Command Line:
         created: 1587206598000
         language: JavaScript
         color: '#f1e05a'
+    - name: wayback-sitemap-archive
+      repo: plibither8/wayback-sitemap-archive
+      description: 🏛️ Archive all pages specified in the webpage's sitemap to Internet Archive's Wayback Machine
+      archived: false
   Random Scripts:
     - name: index
       repo: plibither8/index
@@ -335,6 +339,10 @@ Command Line:
         created: 1576519172000
         language: JavaScript
         color: '#f1e05a'
+    - name: gh-followers-tracker
+      repo: plibither8/gh-followers-tracker
+      description: 🔔 Tracking my GitHub following and un-following with notification on Telegram (why not lol)
+      archived: false
     - name: periodic-table-words--javascript
       repo: plibither8/periodic-table-words--javascript
       description: >-
