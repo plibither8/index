@@ -5,7 +5,7 @@ Websites:
     archived: false
     details:
       stars: 5
-      updated: 1587546095000
+      updated: 1589785731000
       created: 1511198901000
       language: HTML
       color: '#e34c26'
@@ -24,8 +24,8 @@ Websites:
     description: "\U0001F60E swag opportunities for developers"
     archived: false
     details:
-      stars: 3617
-      updated: 1589709079000
+      stars: 3618
+      updated: 1589842938000
       created: 1518931771000
       language: JavaScript
       color: '#f1e05a'
@@ -161,7 +161,7 @@ Extensions:
       description: "\U0001F3AC✨ Browser extension to automatically detect asciinema links in a project's README and embed the asciinema player in its place"
       archived: false
       details:
-        stars: 16
+        stars: 17
         updated: 1562160300000
         created: 1549705604000
         language: JavaScript
@@ -300,7 +300,7 @@ Command Line:
       archived: false
       details:
         stars: 0
-        updated: 1585922702000
+        updated: 1589784150000
         created: 1585815656000
         language: JavaScript
         color: '#f1e05a'
@@ -310,7 +310,7 @@ Command Line:
       archived: false
       details:
         stars: 1
-        updated: 1587284351000
+        updated: 1589783940000
         created: 1587206598000
         language: JavaScript
         color: '#f1e05a'
@@ -331,7 +331,7 @@ Command Line:
       archived: false
       details:
         stars: 0
-        updated: 1589673836000
+        updated: 1589760222000
         created: 1576435852000
         language: JavaScript
         color: '#f1e05a'
@@ -341,7 +341,7 @@ Command Line:
       archived: false
       details:
         stars: 1
-        updated: 1586248397000
+        updated: 1589785567000
         created: 1576519172000
         language: JavaScript
         color: '#f1e05a'
@@ -351,7 +351,7 @@ Command Line:
       archived: false
       details:
         stars: 1
-        updated: 1589699004000
+        updated: 1589783827000
         created: 1587480787000
         language: JavaScript
         color: '#f1e05a'
