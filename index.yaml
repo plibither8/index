@@ -5,7 +5,7 @@ Websites:
     archived: false
     details:
       stars: 5
-      updated: 1589785731000
+      updated: 1589877865000
       created: 1511198901000
       language: HTML
       color: '#e34c26'
@@ -151,8 +151,8 @@ Extensions:
         HN experience better
       archived: false
       details:
-        stars: 363
-        updated: 1588227054000
+        stars: 364
+        updated: 1589868703000
         created: 1551976964000
         language: JavaScript
         color: '#f1e05a'
@@ -331,7 +331,7 @@ Command Line:
       archived: false
       details:
         stars: 0
-        updated: 1589760222000
+        updated: 1589846648000
         created: 1576435852000
         language: JavaScript
         color: '#f1e05a'
