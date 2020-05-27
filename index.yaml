@@ -24,8 +24,8 @@ Websites:
     description: "\U0001F60E swag opportunities for developers"
     archived: false
     details:
-      stars: 3617
-      updated: 1590311621000
+      stars: 3619
+      updated: 1590533653000
       created: 1518931771000
       language: JavaScript
       color: '#f1e05a'
@@ -161,7 +161,7 @@ Extensions:
       description: "\U0001F3AC✨ Browser extension to automatically detect asciinema links in a project's README and embed the asciinema player in its place"
       archived: false
       details:
-        stars: 17
+        stars: 18
         updated: 1562160300000
         created: 1549705604000
         language: JavaScript
@@ -331,7 +331,7 @@ Command Line:
       archived: false
       details:
         stars: 0
-        updated: 1590365235000
+        updated: 1590451613000
         created: 1576435852000
         language: JavaScript
         color: '#f1e05a'
@@ -387,7 +387,7 @@ Games:
     description: "\U0001F3AE Fully featured terminal version of the game \"2048\" written in C++"
     archived: false
     details:
-      stars: 1484
+      stars: 1486
       updated: 1582168550000
       created: 1522653245000
       language: C++
