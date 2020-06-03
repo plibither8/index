@@ -4,7 +4,7 @@ Websites:
     description: "\U0001F310 My personal website's source code"
     archived: false
     details:
-      stars: 5
+      stars: 4
       updated: 1589877865000
       created: 1511198901000
       language: HTML
@@ -24,8 +24,8 @@ Websites:
     description: "\U0001F60E swag opportunities for developers"
     archived: false
     details:
-      stars: 3622
-      updated: 1590998134000
+      stars: 3621
+      updated: 1591129481000
       created: 1518931771000
       language: JavaScript
       color: '#f1e05a'
@@ -44,7 +44,7 @@ Websites:
     description: 'Official website of Sanskriti School, New Delhi, India'
     archived: false
     details:
-      stars: 5
+      stars: 4
       updated: 1532331484000
       created: 1511797223000
       language: HTML
@@ -139,7 +139,7 @@ Extensions:
       description: "\U0001F5D2️ ⏰ ✅ Save notes in Markdown directly in the 'New Tab' page"
       archived: false
       details:
-        stars: 725
+        stars: 724
         updated: 1587058729000
         created: 1529698299000
         language: CSS
@@ -331,7 +331,7 @@ Command Line:
       archived: false
       details:
         stars: 0
-        updated: 1590969958000
+        updated: 1591056374000
         created: 1576435852000
         language: JavaScript
         color: '#f1e05a'
@@ -350,7 +350,7 @@ Command Line:
       description: "\U0001F514 Tracking my GitHub following and un-following with notification on Telegram (why not lol)"
       archived: false
       details:
-        stars: 1
+        stars: 2
         updated: 1589783827000
         created: 1587480787000
         language: JavaScript
