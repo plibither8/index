@@ -4,7 +4,7 @@ Websites:
     description: "\U0001F310 My personal website's source code"
     archived: false
     details:
-      stars: 5
+      stars: 6
       updated: 1589877865000
       created: 1511198901000
       language: HTML
@@ -24,7 +24,7 @@ Websites:
     description: "\U0001F60E swag opportunities for developers"
     archived: false
     details:
-      stars: 3624
+      stars: 3623
       updated: 1591825761000
       created: 1518931771000
       language: JavaScript
@@ -331,7 +331,7 @@ Command Line:
       archived: false
       details:
         stars: 0
-        updated: 1592006776000
+        updated: 1592093204000
         created: 1576435852000
         language: JavaScript
         color: '#f1e05a'
@@ -340,7 +340,7 @@ Command Line:
       description: ✨ Script to update my "recent-activity.json" daily
       archived: false
       details:
-        stars: 2
+        stars: 3
         updated: 1589785567000
         created: 1576519172000
         language: JavaScript
