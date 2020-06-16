@@ -161,7 +161,7 @@ Extensions:
       description: "\U0001F3AC✨ Browser extension to automatically detect asciinema links in a project's README and embed the asciinema player in its place"
       archived: false
       details:
-        stars: 18
+        stars: 19
         updated: 1562160300000
         created: 1549705604000
         language: JavaScript
@@ -331,7 +331,7 @@ Command Line:
       archived: false
       details:
         stars: 0
-        updated: 1592093204000
+        updated: 1592179577000
         created: 1576435852000
         language: JavaScript
         color: '#f1e05a'
@@ -387,7 +387,7 @@ Games:
     description: "\U0001F3AE Fully featured terminal version of the game \"2048\" written in C++"
     archived: false
     details:
-      stars: 1495
+      stars: 1496
       updated: 1582168550000
       created: 1522653245000
       language: C++
