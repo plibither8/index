@@ -59,6 +59,7 @@ _Repetitions are allowed :P_
 * [lastfm-top-artists](https://github.com/plibither8/lastfm-top-artists) - 📈 Collect user's top artists through time
 * [fitbit-heart-rate](https://github.com/plibither8/fitbit-heart-rate) - 💓 Collect lifetime heart rate data on Fitbit
 * [wayback-sitemap-archive](https://github.com/plibither8/wayback-sitemap-archive) - 🏛️ Archive all pages specified in the webpage's sitemap to Internet Archive's Wayback Machine
+* [ping-tg-notify](https://github.com/plibither8/ping-tg-notify) - 🎯 Ping to endpoint and notify on Telegram
 
 ### Random Scripts
 
@@ -79,12 +80,19 @@ _Repetitions are allowed :P_
 * [tiiime](https://github.com/plibither8/tiiime) - ⏳ [Byld Hackathon v16] Your personal, crowd-sourced timetable
 * [rosaline](https://github.com/raghav-kukreti/rosaline) - 🎶 [InOut 6.0] AI-powered drum machine which generates unique drum tracks for your lead melodies
 
-## College Projects and Coursework
+## College Stuff
+
+### Projects
 
 * [capture-the-flag](https://github.com/plibither8/capture-the-flag) - 🚩 [DES130 Minor Project] Basic single/multi-player maze game built using Processing and Arduino-controlled inputs
 * [percepio-2.0](https://github.com/plibither8/percepio-2.0) - 👓 [DES130 Major Project] Taking notes made simple — in the air, on the go
 * [qr-decomposition](https://github.com/plibither8/qr-decomposition) - QR Decomposition by the Gram-Schmidt Process ❗️
+
+### Courses
+
 * [iiitd_cse101](https://github.com/plibither8/iiitd_cse101) - Semester 1: Introduction to Programming ❗️
+* [iiitd_cse102](https://github.com/plibither8/iiitd_cse102) - Semester 2: Data Structures and Algorithms ❗️
+* [iiitd_cse112](https://github.com/plibither8/iiitd_cse112) - Semester 2: Computer Organisation ❗️
 
 ## Node Libraries
 

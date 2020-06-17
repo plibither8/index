@@ -324,6 +324,15 @@ Command Line:
         created: 1587537234000
         language: JavaScript
         color: '#f1e05a'
+    - name: ping-tg-notify
+      repo: plibither8/ping-tg-notify
+      description: "\U0001F3AF Ping to endpoint and notify on Telegram"
+      details:
+        stars: 0
+        updated: 1589963532000
+        created: 1589953436000
+        language: JavaScript
+        color: '#f1e05a'
   Random Scripts:
     - name: index
       repo: plibither8/index
@@ -331,7 +340,7 @@ Command Line:
       archived: false
       details:
         stars: 0
-        updated: 1592265997000
+        updated: 1592352411000
         created: 1576435852000
         language: JavaScript
         color: '#f1e05a'
@@ -433,47 +442,69 @@ Hackathons:
       created: 1570085790000
       language: JavaScript
       color: '#f1e05a'
-College Projects and Coursework:
-  - name: capture-the-flag
-    repo: plibither8/capture-the-flag
-    description: "\U0001F6A9 [DES130 Minor Project] Basic single/multi-player maze game built using Processing and Arduino-controlled inputs"
-    archived: false
-    details:
-      stars: 0
-      updated: 1569258544000
-      created: 1567863840000
-      language: Processing
-      color: '#0096D8'
-  - name: percepio-2.0
-    repo: plibither8/percepio-2.0
-    description: "\U0001F453 [DES130 Major Project] Taking notes made simple — in the air, on the go"
-    archived: false
-    details:
-      stars: 1
-      updated: 1575199017000
-      created: 1574860335000
-      language: C++
-      color: '#f34b7d'
-  - name: qr-decomposition
-    repo: plibither8/qr-decomposition
-    description: QR Decomposition by the Gram-Schmidt Process
-    archived: true
-    details:
-      stars: 0
-      updated: 1573578065000
-      created: 1573368330000
-      language: Python
-      color: '#3572A5'
-  - name: iiitd_cse101
-    repo: plibither8/iiitd_cse101
-    description: 'Semester 1: Introduction to Programming'
-    archived: true
-    details:
-      stars: 0
-      updated: 1573362259000
-      created: 1566834563000
-      language: Python
-      color: '#3572A5'
+College Stuff:
+  Projects:
+    - name: capture-the-flag
+      repo: plibither8/capture-the-flag
+      description: "\U0001F6A9 [DES130 Minor Project] Basic single/multi-player maze game built using Processing and Arduino-controlled inputs"
+      archived: false
+      details:
+        stars: 0
+        updated: 1569258544000
+        created: 1567863840000
+        language: Processing
+        color: '#0096D8'
+    - name: percepio-2.0
+      repo: plibither8/percepio-2.0
+      description: "\U0001F453 [DES130 Major Project] Taking notes made simple — in the air, on the go"
+      archived: false
+      details:
+        stars: 1
+        updated: 1575199017000
+        created: 1574860335000
+        language: C++
+        color: '#f34b7d'
+    - name: qr-decomposition
+      repo: plibither8/qr-decomposition
+      description: QR Decomposition by the Gram-Schmidt Process
+      archived: true
+      details:
+        stars: 0
+        updated: 1573578065000
+        created: 1573368330000
+        language: Python
+        color: '#3572A5'
+  Courses:
+    - name: iiitd_cse101
+      repo: plibither8/iiitd_cse101
+      description: 'Semester 1: Introduction to Programming'
+      archived: true
+      details:
+        stars: 0
+        updated: 1573362259000
+        created: 1566834563000
+        language: Python
+        color: '#3572A5'
+    - name: iiitd_cse102
+      repo: plibither8/iiitd_cse102
+      description: 'Semester 2: Data Structures and Algorithms'
+      archived: true
+      details:
+        stars: 0
+        updated: 1590509527000
+        created: 1577508370000
+        language: Java
+        color: '#b07219'
+    - name: iiitd_cse112
+      repo: plibither8/iiitd_cse112
+      description: 'Semester 2: Computer Organisation'
+      archived: true
+      details:
+        stars: 0
+        updated: 1592328817000
+        created: 1583342599000
+        language: JavaScript
+        color: '#f1e05a'
 Node Libraries:
   - name: big-number.js
     repo: plibither8/big-number.js

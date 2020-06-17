@@ -1,3 +1,5 @@
+require('dotenv').config()
+
 const {readFile, writeFile} = require('fs').promises;
 const path = require('path')
 const fetch = require('node-fetch');
@@ -56,7 +58,7 @@ const main = async () => {
 	const data = yaml.safeLoad(yamlText);
 
 	for (const [heading1, items1] of Object.entries(data)) {
-		console.log(heading1+':');
+		console.log('\n' + heading1 + ':');
 		if (Array.isArray(items1)) {
 			for (const [index, item] of items1.entries()) {
 				if (item.skipDetails) continue;
