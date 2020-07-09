@@ -4,8 +4,8 @@ Websites:
     description: "\U0001F310 My personal website's source code"
     archived: false
     details:
-      stars: 6
-      updated: 1593932464000
+      stars: 5
+      updated: 1594189960000
       created: 1511198901000
       language: HTML
       color: '#e34c26'
@@ -24,7 +24,7 @@ Websites:
     description: "\U0001F60E swag opportunities for developers"
     archived: false
     details:
-      stars: 3645
+      stars: 3644
       updated: 1594148436000
       created: 1518931771000
       language: JavaScript
@@ -139,7 +139,7 @@ Extensions:
       description: "\U0001F5D2️ ⏰ ✅ Save notes in Markdown directly in the 'New Tab' page"
       archived: false
       details:
-        stars: 726
+        stars: 727
         updated: 1587058729000
         created: 1529698299000
         language: CSS
@@ -151,7 +151,7 @@ Extensions:
         HN experience better
       archived: false
       details:
-        stars: 370
+        stars: 369
         updated: 1589868703000
         created: 1551976964000
         language: JavaScript
@@ -269,7 +269,7 @@ Command Line:
         and add licenses to your projects
       archived: false
       details:
-        stars: 205
+        stars: 204
         updated: 1584624110000
         created: 1528021009000
         language: JavaScript
@@ -340,7 +340,7 @@ Command Line:
       archived: false
       details:
         stars: 0
-        updated: 1594080478000
+        updated: 1594166868000
         created: 1576435852000
         language: JavaScript
         color: '#f1e05a'
@@ -359,7 +359,7 @@ Command Line:
       description: "\U0001F514 Tracking my GitHub following and un-following with notification on Telegram (why not lol)"
       archived: false
       details:
-        stars: 2
+        stars: 1
         updated: 1589783827000
         created: 1587480787000
         language: JavaScript
@@ -396,7 +396,7 @@ Games:
     description: "\U0001F3AE Fully featured terminal version of the game \"2048\" written in C++"
     archived: false
     details:
-      stars: 1509
+      stars: 1508
       updated: 1593494302000
       created: 1522653245000
       language: C++
