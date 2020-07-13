@@ -24,7 +24,7 @@ Websites:
     description: "\U0001F60E swag opportunities for developers"
     archived: false
     details:
-      stars: 3645
+      stars: 3644
       updated: 1594450120000
       created: 1518931771000
       language: JavaScript
@@ -151,7 +151,7 @@ Extensions:
         HN experience better
       archived: false
       details:
-        stars: 406
+        stars: 434
         updated: 1589868703000
         created: 1551976964000
         language: JavaScript
@@ -339,8 +339,8 @@ Command Line:
       description: "\U0001F4C2 All my repositories and projects I have worked on, indexed. Also contains code to generate the README file"
       archived: false
       details:
-        stars: 0
-        updated: 1594426082000
+        stars: 1
+        updated: 1594512492000
         created: 1576435852000
         language: JavaScript
         color: '#f1e05a'
@@ -396,7 +396,7 @@ Games:
     description: "\U0001F3AE Fully featured terminal version of the game \"2048\" written in C++"
     archived: false
     details:
-      stars: 1510
+      stars: 1511
       updated: 1593494302000
       created: 1522653245000
       language: C++
