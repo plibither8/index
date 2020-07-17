@@ -25,7 +25,7 @@ Websites:
     archived: false
     details:
       stars: 3643
-      updated: 1594846470000
+      updated: 1594923672000
       created: 1518931771000
       language: JavaScript
       color: '#f1e05a'
@@ -55,7 +55,7 @@ Websites:
     archived: false
     details:
       stars: 12
-      updated: 1569869406000
+      updated: 1594920946000
       created: 1549963293000
       language: HTML
       color: '#e34c26'
@@ -139,7 +139,7 @@ Extensions:
       description: "\U0001F5D2️ ⏰ ✅ Save notes in Markdown directly in the 'New Tab' page"
       archived: false
       details:
-        stars: 728
+        stars: 727
         updated: 1587058729000
         created: 1529698299000
         language: CSS
@@ -206,7 +206,7 @@ APIs and Microservices:
     archived: false
     details:
       stars: 12
-      updated: 1569869406000
+      updated: 1594920946000
       created: 1549963293000
       language: HTML
       color: '#e34c26'
@@ -270,7 +270,7 @@ Command Line:
       archived: false
       details:
         stars: 204
-        updated: 1584624110000
+        updated: 1594882747000
         created: 1528021009000
         language: JavaScript
         color: '#f1e05a'
@@ -340,7 +340,7 @@ Command Line:
       archived: false
       details:
         stars: 1
-        updated: 1594771687000
+        updated: 1594858076000
         created: 1576435852000
         language: JavaScript
         color: '#f1e05a'
@@ -396,7 +396,7 @@ Games:
     description: "\U0001F3AE Fully featured terminal version of the game \"2048\" written in C++"
     archived: false
     details:
-      stars: 1511
+      stars: 1513
       updated: 1593494302000
       created: 1522653245000
       language: C++
