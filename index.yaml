@@ -5,7 +5,7 @@ Websites:
     archived: false
     details:
       stars: 5
-      updated: 1594851120000
+      updated: 1595743003000
       created: 1511198901000
       language: HTML
       color: '#e34c26'
@@ -65,7 +65,7 @@ Websites:
     archived: false
     details:
       stars: 0
-      updated: 1595699399000
+      updated: 1595793713000
       created: 1583851012000
       language: CSS
       color: '#563d7c'
@@ -340,7 +340,7 @@ Command Line:
       archived: false
       details:
         stars: 1
-        updated: 1595635711000
+        updated: 1595722125000
         created: 1576435852000
         language: JavaScript
         color: '#f1e05a'
@@ -350,7 +350,7 @@ Command Line:
       archived: false
       details:
         stars: 3
-        updated: 1589785567000
+        updated: 1595743415000
         created: 1576519172000
         language: JavaScript
         color: '#f1e05a'
@@ -396,7 +396,7 @@ Games:
     description: "\U0001F3AE Fully featured terminal version of the game \"2048\" written in C++"
     archived: false
     details:
-      stars: 1516
+      stars: 1518
       updated: 1593494302000
       created: 1522653245000
       language: C++
