@@ -24,7 +24,7 @@ Websites:
     description: "\U0001F60E swag opportunities for developers"
     archived: false
     details:
-      stars: 3646
+      stars: 3645
       updated: 1596200671000
       created: 1518931771000
       language: JavaScript
@@ -65,7 +65,7 @@ Websites:
     archived: false
     details:
       stars: 0
-      updated: 1595833250000
+      updated: 1596299687000
       created: 1583851012000
       language: CSS
       color: '#563d7c'
@@ -108,7 +108,7 @@ Web Apps:
     archived: false
     details:
       stars: 0
-      updated: 1595081336000
+      updated: 1596241777000
       created: 1570085790000
       language: JavaScript
       color: '#f1e05a'
@@ -340,7 +340,7 @@ Command Line:
       archived: false
       details:
         stars: 1
-        updated: 1596154131000
+        updated: 1596240600000
         created: 1576435852000
         language: JavaScript
         color: '#f1e05a'
@@ -396,7 +396,7 @@ Games:
     description: "\U0001F3AE Fully featured terminal version of the game \"2048\" written in C++"
     archived: false
     details:
-      stars: 1521
+      stars: 1522
       updated: 1593494302000
       created: 1522653245000
       language: C++
@@ -438,7 +438,7 @@ Hackathons:
     archived: false
     details:
       stars: 0
-      updated: 1595081336000
+      updated: 1596241777000
       created: 1570085790000
       language: JavaScript
       color: '#f1e05a'
