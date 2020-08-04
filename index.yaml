@@ -24,8 +24,8 @@ Websites:
     description: "\U0001F60E swag opportunities for developers"
     archived: false
     details:
-      stars: 3647
-      updated: 1596200671000
+      stars: 3648
+      updated: 1596464969000
       created: 1518931771000
       language: JavaScript
       color: '#f1e05a'
@@ -139,7 +139,7 @@ Extensions:
       description: "\U0001F5D2️ ⏰ ✅ Save notes in Markdown directly in the 'New Tab' page"
       archived: false
       details:
-        stars: 728
+        stars: 729
         updated: 1596169818000
         created: 1529698299000
         language: CSS
@@ -340,7 +340,7 @@ Command Line:
       archived: false
       details:
         stars: 1
-        updated: 1596326968000
+        updated: 1596413352000
         created: 1576435852000
         language: JavaScript
         color: '#f1e05a'
@@ -396,7 +396,7 @@ Games:
     description: "\U0001F3AE Fully featured terminal version of the game \"2048\" written in C++"
     archived: false
     details:
-      stars: 1521
+      stars: 1522
       updated: 1593494302000
       created: 1522653245000
       language: C++
