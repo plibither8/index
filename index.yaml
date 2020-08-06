@@ -24,8 +24,8 @@ Websites:
     description: "\U0001F60E swag opportunities for developers"
     archived: false
     details:
-      stars: 3648
-      updated: 1596580245000
+      stars: 3649
+      updated: 1596609698000
       created: 1518931771000
       language: JavaScript
       color: '#f1e05a'
@@ -216,7 +216,7 @@ APIs and Microservices:
     archived: false
     details:
       stars: 2
-      updated: 1576437563000
+      updated: 1596641715000
       created: 1576151786000
       language: JavaScript
       color: '#f1e05a'
@@ -226,7 +226,7 @@ APIs and Microservices:
     archived: false
     details:
       stars: 0
-      updated: 1595478929000
+      updated: 1596641682000
       created: 1569590394000
       language: JavaScript
       color: '#f1e05a'
@@ -236,7 +236,7 @@ APIs and Microservices:
     archived: false
     details:
       stars: 6
-      updated: 1569338766000
+      updated: 1596641503000
       created: 1569337570000
       language: JavaScript
       color: '#f1e05a'
@@ -246,7 +246,7 @@ APIs and Microservices:
     archived: false
     details:
       stars: 1
-      updated: 1587970640000
+      updated: 1596641690000
       created: 1575909340000
       language: JavaScript
       color: '#f1e05a'
@@ -340,7 +340,7 @@ Command Line:
       archived: false
       details:
         stars: 1
-        updated: 1596499749000
+        updated: 1596586139000
         created: 1576435852000
         language: JavaScript
         color: '#f1e05a'
