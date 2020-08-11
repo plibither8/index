@@ -25,7 +25,7 @@ Websites:
     archived: false
     details:
       stars: 3655
-      updated: 1596797314000
+      updated: 1597084719000
       created: 1518931771000
       language: JavaScript
       color: '#f1e05a'
@@ -151,7 +151,7 @@ Extensions:
         HN experience better
       archived: false
       details:
-        stars: 450
+        stars: 451
         updated: 1596132578000
         created: 1551976964000
         language: JavaScript
@@ -269,7 +269,7 @@ Command Line:
         and add licenses to your projects
       archived: false
       details:
-        stars: 205
+        stars: 208
         updated: 1594995721000
         created: 1528021009000
         language: JavaScript
@@ -340,7 +340,7 @@ Command Line:
       archived: false
       details:
         stars: 1
-        updated: 1596931802000
+        updated: 1597018177000
         created: 1576435852000
         language: JavaScript
         color: '#f1e05a'
@@ -396,7 +396,7 @@ Games:
     description: "\U0001F3AE Fully featured terminal version of the game \"2048\" written in C++"
     archived: false
     details:
-      stars: 1522
+      stars: 1523
       updated: 1593494302000
       created: 1522653245000
       language: C++
