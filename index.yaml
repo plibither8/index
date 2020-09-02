@@ -24,7 +24,7 @@ Websites:
     description: "\U0001F60E swag opportunities for developers"
     archived: false
     details:
-      stars: 3672
+      stars: 3673
       updated: 1598906193000
       created: 1518931771000
       language: JavaScript
@@ -65,7 +65,7 @@ Websites:
     archived: false
     details:
       stars: 0
-      updated: 1597553154000
+      updated: 1598977187000
       created: 1583851012000
       language: CSS
       color: '#563d7c'
@@ -340,7 +340,7 @@ Command Line:
       archived: false
       details:
         stars: 1
-        updated: 1598832763000
+        updated: 1598919368000
         created: 1576435852000
         language: JavaScript
         color: '#f1e05a'
