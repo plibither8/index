@@ -24,8 +24,8 @@ Websites:
     description: "\U0001F60E swag opportunities for developers"
     archived: false
     details:
-      stars: 3673
-      updated: 1598906193000
+      stars: 3672
+      updated: 1599054533000
       created: 1518931771000
       language: JavaScript
       color: '#f1e05a'
@@ -235,7 +235,7 @@ APIs and Microservices:
     description: "\U0001F310 Tiny API to get user's favorited items on Hacker News"
     archived: false
     details:
-      stars: 6
+      stars: 9
       updated: 1596641503000
       created: 1569337570000
       language: JavaScript
@@ -310,7 +310,7 @@ Command Line:
       archived: false
       details:
         stars: 1
-        updated: 1595573601000
+        updated: 1599066530000
         created: 1587206598000
         language: JavaScript
         color: '#f1e05a'
@@ -340,7 +340,7 @@ Command Line:
       archived: false
       details:
         stars: 1
-        updated: 1598919368000
+        updated: 1599005486000
         created: 1576435852000
         language: JavaScript
         color: '#f1e05a'
