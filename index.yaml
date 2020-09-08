@@ -25,7 +25,7 @@ Websites:
     archived: false
     details:
       stars: 3674
-      updated: 1599184602000
+      updated: 1599479617000
       created: 1518931771000
       language: JavaScript
       color: '#f1e05a'
@@ -65,10 +65,10 @@ Websites:
     archived: false
     details:
       stars: 0
-      updated: 1599375089000
+      updated: 1599502183000
       created: 1583851012000
-      language: CSS
-      color: '#563d7c'
+      language: Stylus
+      color: '#ff6347'
   - name: sanskriti-mun-2018
     repo: plibither8/sanskriti-mun-2018
     description: Sanskriti MUN 2018
@@ -340,7 +340,7 @@ Command Line:
       archived: false
       details:
         stars: 1
-        updated: 1599351113000
+        updated: 1599437514000
         created: 1576435852000
         language: JavaScript
         color: '#f1e05a'
