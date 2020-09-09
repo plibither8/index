@@ -24,8 +24,8 @@ Websites:
     description: "\U0001F60E swag opportunities for developers"
     archived: false
     details:
-      stars: 3674
-      updated: 1599479617000
+      stars: 3676
+      updated: 1599586816000
       created: 1518931771000
       language: JavaScript
       color: '#f1e05a'
@@ -139,7 +139,7 @@ Extensions:
       description: "\U0001F5D2️ ⏰ ✅ Save notes in Markdown directly in the 'New Tab' page"
       archived: false
       details:
-        stars: 728
+        stars: 729
         updated: 1599359117000
         created: 1529698299000
         language: CSS
@@ -340,7 +340,7 @@ Command Line:
       archived: false
       details:
         stars: 1
-        updated: 1599437514000
+        updated: 1599523896000
         created: 1576435852000
         language: JavaScript
         color: '#f1e05a'
