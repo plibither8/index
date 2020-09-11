@@ -24,8 +24,8 @@ Websites:
     description: "\U0001F60E swag opportunities for developers"
     archived: false
     details:
-      stars: 3677
-      updated: 1599586816000
+      stars: 3678
+      updated: 1599746802000
       created: 1518931771000
       language: JavaScript
       color: '#f1e05a'
@@ -65,7 +65,7 @@ Websites:
     archived: false
     details:
       stars: 0
-      updated: 1599502183000
+      updated: 1599739218000
       created: 1583851012000
       language: Stylus
       color: '#ff6347'
@@ -108,7 +108,7 @@ Web Apps:
     archived: false
     details:
       stars: 0
-      updated: 1596241777000
+      updated: 1599754171000
       created: 1570085790000
       language: JavaScript
       color: '#f1e05a'
@@ -194,7 +194,7 @@ Extensions:
       description: "\U0001F6AB VS Code extension to remove all comments from your code at once — 60+ languages supported"
       archived: false
       details:
-        stars: 15
+        stars: 16
         updated: 1587964972000
         created: 1524740940000
         language: TypeScript
@@ -340,7 +340,7 @@ Command Line:
       archived: false
       details:
         stars: 1
-        updated: 1599610285000
+        updated: 1599696672000
         created: 1576435852000
         language: JavaScript
         color: '#f1e05a'
@@ -438,7 +438,7 @@ Hackathons:
     archived: false
     details:
       stars: 0
-      updated: 1596241777000
+      updated: 1599754171000
       created: 1570085790000
       language: JavaScript
       color: '#f1e05a'
