@@ -5,10 +5,10 @@ Websites:
     archived: false
     details:
       stars: 6
-      updated: 1598532903000
+      updated: 1601435611000
       created: 1511198901000
-      language: HTML
-      color: '#e34c26'
+      language: Pug
+      color: '#a86454'
   - name: v1.mihir.ch
     repo: plibither8/v1.mihir.ch
     description: "\U0001F310 First version of my personal website"
@@ -24,8 +24,8 @@ Websites:
     description: "\U0001F60E swag opportunities for developers"
     archived: false
     details:
-      stars: 3697
-      updated: 1601386804000
+      stars: 3704
+      updated: 1601510428000
       created: 1518931771000
       language: JavaScript
       color: '#f1e05a'
@@ -340,7 +340,7 @@ Command Line:
       archived: false
       details:
         stars: 1
-        updated: 1601338364000
+        updated: 1601424739000
         created: 1576435852000
         language: JavaScript
         color: '#f1e05a'
@@ -396,7 +396,7 @@ Games:
     description: "\U0001F3AE Fully featured terminal version of the game \"2048\" written in C++"
     archived: false
     details:
-      stars: 1548
+      stars: 1549
       updated: 1593494302000
       created: 1522653245000
       language: C++
