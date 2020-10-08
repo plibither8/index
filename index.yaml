@@ -25,7 +25,7 @@ Websites:
     archived: false
     details:
       stars: 3724
-      updated: 1602023764000
+      updated: 1602102457000
       created: 1518931771000
       language: JavaScript
       color: '#f1e05a'
@@ -44,7 +44,7 @@ Websites:
     description: 'Official website of Sanskriti School, New Delhi, India'
     archived: false
     details:
-      stars: 4
+      stars: 5
       updated: 1532331484000
       created: 1511797223000
       language: HTML
@@ -340,7 +340,7 @@ Command Line:
       archived: false
       details:
         stars: 1
-        updated: 1601943238000
+        updated: 1602029594000
         created: 1576435852000
         language: JavaScript
         color: '#f1e05a'
@@ -396,7 +396,7 @@ Games:
     description: "\U0001F3AE Fully featured terminal version of the game \"2048\" written in C++"
     archived: false
     details:
-      stars: 1561
+      stars: 1562
       updated: 1601591310000
       created: 1522653245000
       language: C++
