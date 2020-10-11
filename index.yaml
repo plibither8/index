@@ -25,7 +25,7 @@ Websites:
     archived: false
     details:
       stars: 3730
-      updated: 1602261871000
+      updated: 1602302245000
       created: 1518931771000
       language: JavaScript
       color: '#f1e05a'
@@ -340,7 +340,7 @@ Command Line:
       archived: false
       details:
         stars: 1
-        updated: 1602202346000
+        updated: 1602288800000
         created: 1576435852000
         language: JavaScript
         color: '#f1e05a'
@@ -396,7 +396,7 @@ Games:
     description: "\U0001F3AE Fully featured terminal version of the game \"2048\" written in C++"
     archived: false
     details:
-      stars: 1563
+      stars: 1565
       updated: 1601591310000
       created: 1522653245000
       language: C++
