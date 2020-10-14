@@ -151,7 +151,7 @@ Extensions:
         HN experience better
       archived: false
       details:
-        stars: 455
+        stars: 456
         updated: 1596132578000
         created: 1551976964000
         language: JavaScript
@@ -340,7 +340,7 @@ Command Line:
       archived: false
       details:
         stars: 1
-        updated: 1602461623000
+        updated: 1602548014000
         created: 1576435852000
         language: JavaScript
         color: '#f1e05a'
